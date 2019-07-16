@@ -1,2 +1,2 @@
-# TheExGeneisis
+# TheExGenesis
 personal website
