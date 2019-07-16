@@ -2,6 +2,8 @@
 layout: default
 title: About
 ---
-# About page
+# About me
 
-This page tells you a little bit about me.
+My name is Francisco Carvalho and I'm from Lisbon, Portugal. 
+
+Currently a Computer Science Master's student, working on the alignment problem.
