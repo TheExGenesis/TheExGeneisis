@@ -6,4 +6,4 @@ title: About
 
 My name is Francisco Carvalho and I'm from Lisbon, Portugal. 
 
-Currently a Computer Science Master's student, working on the alignment problem.
+Currently a Computer Science Master's student, working on the AI alignment problem.
