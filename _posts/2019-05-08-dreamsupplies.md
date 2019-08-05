@@ -7,9 +7,10 @@ Been on the road a lot since the semester started in Beijing. I've seen the anci
 
 ![](/uploads/chinacloseup.png)
 
-Strolling through Mao's native province of Hunan, I can't help but wonder. This is all pretty cool, and I got to see some crazy mountains and temples, but when my favorite parts of it all were spending the night in a tent inside an abandoned house, and looking at a bunch of monkeys for way too much time, what does that tell me about my (relatively) expensive tour?
+Strolling through Mao's native province of Hunan, I can't help but wonder. This is all pretty cool, and I got to see some crazy mountains and temples, but when my favorite parts of it all were spending the night in a tent inside an abandoned house, and looking at a bunch of monkeys for way too much time, what does that tell me about my (relatively) expensive tour?  
+![](/uploads/wildcamping.jpg)
 
-.![](/uploads/wildcamping.jpg)Planned tourist trips are fine. Even necessary if I want to cover as much ground as I'm able in the 4 months I have in the middle kingdom; but I think they might be fundamentally different things from open-ended travelling periods. I mean, there's definitely a spectrum. Watching a movie at the cinema isn't the same as watching it on netflix.
+Planned tourist trips are fine. Even necessary if I want to cover as much ground as I'm able in the 4 months I have in the middle kingdom; but I think they might be fundamentally different things from open-ended travelling periods. I mean, there's definitely a spectrum. Watching a movie at the cinema isn't the same as watching it on netflix.
 
 ![](/uploads/monkeymom.jpg)
 
