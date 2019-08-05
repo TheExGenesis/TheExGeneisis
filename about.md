@@ -1,9 +1,11 @@
 ---
-layout: default
-title: About
+layout: page
+title: About me
+navlevel: header
+navtitle: About # optional, specifies the text to display on navigation item
+position: 99
 ---
 # About me
-
 My name is Francisco Carvalho and I'm from Lisbon, Portugal. 
-
-Currently a Computer Science Master's student, working on the AI alignment problem.
+![Me](/assets/img/portrait.jpg)
+Currently a Computer Science Master's student, working on AI Governance, Safety, and Policy.

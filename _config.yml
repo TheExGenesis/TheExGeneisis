@@ -24,3 +24,12 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+github_username: TheExGenesis
+twitter_username: ExGenesis
+instagram_username: theexgenesis
+
+color_scheme: github
+
+google_analytics: UA-NNNNNNNN-N
+
+mathjax: true

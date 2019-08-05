@@ -1,15 +1,15 @@
 ---
-layout: default
-title: projects
+layout: page
+title: Projects
+navlevel: header
+navtitle: Projects # optional, specifies the text to display on navigation item
+position: 4
 ---
-<h1>Projects</h1>
-
 <ul>
   {% for project in site.projects %}
     <li>
-      <h2><a href="{{ project.url }}">{{ project.name }}</a></h2>
-      <h3>{{ project.status }}</h3>
-      <p>{{ project.content | markdownify }}</p>
+      <a href="{{ project.url }}">{{ project.name }}</a>
+      <!--<p>{{ project.content | markdownify }}</p>-->
     </li>
   {% endfor %}
 </ul>
