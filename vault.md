@@ -57,11 +57,11 @@ Short fiction on death reflecting on the (not really) inevitablity of death, and
 
 ##### Interactive Pieces
 
-[The Evolution of Trust](https://ncase.me/trust/) - Case  
+[The Evolution of Trust](https://ncase.me/trust/)  
 An interactive introduction to Game Theory
 
-[To Build a Better Ballot](https://ncase.me/ballot/) - Case  
+[To Build a Better Ballot](https://ncase.me/ballot/)  
 Interactive exploration of voting systems.
 
-[Going Critical](https://meltingasphalt.com/interactive/going-critical/), Simler in Melting Asphalt  
+[Going Critical](https://meltingasphalt.com/interactive/going-critical/)  
 Intuition on criticality in networks. Huge concepts in memetics.
