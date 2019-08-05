@@ -1,4 +1,3 @@
-BASE_PATH : /RICENCODE
 collections:
   projects:
     output: true
