@@ -8,8 +8,6 @@ position: "98"
 ---
 # **The Vault**
 
-I like hoarding links and books.
-
 Here I'll keep books and pieces I read that have influenced my thinking, and usually contain new concepts that I've integrated into my models of the world.
 
 ##### Books:
