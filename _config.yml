@@ -1,3 +1,4 @@
+BASE_PATH : /RICENCODE
 collections:
   projects:
     output: true
@@ -33,3 +34,4 @@ color_scheme: github
 google_analytics: UA-NNNNNNNN-N
 
 mathjax: true
+
