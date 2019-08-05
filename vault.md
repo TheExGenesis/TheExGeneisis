@@ -3,10 +3,8 @@ layout: page
 title: The Vault
 navlevel: header
 navtitle: Vault
-position: "98"
+position: 98
 ---
-# **The Vault**
-
 Here I'll keep books and pieces I read that have influenced my thinking, and usually contain new concepts that I've integrated into my models of the world.
 
 ##### Books:
