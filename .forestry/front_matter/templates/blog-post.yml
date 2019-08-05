@@ -8,3 +8,5 @@ fields:
 - type: text
   name: project
   label: project
+pages:
+- _posts/2019-05-08-dreamsupplies.md
