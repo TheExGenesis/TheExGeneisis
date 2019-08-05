@@ -24,4 +24,6 @@ This feeling tells me what I'm probably looking for right now is a certain"on yo
 
 ![](/uploads/karst.jpg)
 
+Karst peaks are the stuff of dreams
+
 In defense of sight-seeing, I don't think it's a waste of time. There are things you do keep after the pleasurable fact. I like to think of it as gathering "dream material". Memories of places you inhabit stick with you more or less permanently, stored in the boundless unconscious. There they become available for your imagination to draw from and to melt into the countless other things you've seen, manifesting themselves in your dreams, making them and you richer and deeper. Like soul-fertilizer.
