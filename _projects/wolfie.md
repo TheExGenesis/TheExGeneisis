@@ -1,6 +1,6 @@
 ---
 short_name: wolfie
-name: "\U0001F43A Deep RL Bitcoin Trading Bot"
+name: "\U0001F4B9 Deep RL Bitcoin Trading Bot"
 status: ongoing
 
 ---
