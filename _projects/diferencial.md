@@ -10,10 +10,10 @@ For the first semester of 2018/2019 I acted as director at Diferencial, a public
 
 During my term I:
 
-* delineated macrostrategy; 
+* delineated macrostrategy;
 * rebuilt [the website](https://diferencial.tecnico.ulisboa.pt) (which has been further improved by the talented Paulo Moniz);
-* applied for funding through grants; 
-* interacted with university administration and student bodies; 
+* applied for funding through grants;
+* interacted with university administration and student bodies;
 * dealt with logistics and coordinated a team of writers and editors;
 * went to IKEA and remodeled the newspaper work room
 
