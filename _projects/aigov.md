@@ -1,8 +1,7 @@
 ---
 short_name: aigov
-name: "\U0001F916AI Governance"
+name: "\U0001F916 AI Governance"
 status: ongoing
-published: false
 
 ---
 \[edit later\]
