@@ -10,7 +10,7 @@ xiq is short for Francisco Carvalho
 based in Lisbon, Portugal
 
 this site is here to aggregate my fractal sidequests, and some nonsense too
-![Me]({{ site.url }}/assets/img/portrait.jpg)
+![Me]({{ site.url }}/assets/img/xiqpic.jpg)
 
 currently a master's student in computer science, with a focus on AI
 
