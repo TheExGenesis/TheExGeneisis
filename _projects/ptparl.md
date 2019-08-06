@@ -8,4 +8,4 @@ The Portuguese Parliament makes [transcripts available as pdfs](https://www.parl
 
 I've been working on it as coursework since the Spring 2019 and it's scheduled to go online during this Summer, courtesy of Miguel Won at INESC-ID.
 
-Here's a report I wrote on it for the course on Web Information Retrieval I was taking.
+Here's[ a report]( "report pdf") I wrote on it for the course on Web Information Retrieval I was taking.
