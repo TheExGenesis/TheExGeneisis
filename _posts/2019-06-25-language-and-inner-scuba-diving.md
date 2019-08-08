@@ -11,7 +11,7 @@ Romantically, I like to think of languages as products of the stories and recurr
 
 ![](https://fractalsidequests.files.wordpress.com/2019/06/wechat-image_20190625164915-1.jpg)Chinese ethnolinguistic groups
 
-Borrowing Wittgenstein's term, we can look at languages as collections of "language games" and by collecting, identifying, and integrating the common and idiosyncratic rulesets present in different contexts, we may construct better models of the mind. Many of these games may be constringent on the environment they originated in; some of them will be very similar, and those might be distilled to improve one's understanding of human condition.
+Borrowing Wittgenstein's term, we can look at languages as collections of "language games" and by collecting, identifying, and integrating the common and idiosyncratic rule-sets present in different contexts, we may construct better models of the mind. Many of these games may be contigent on the environment they originated in; some of them will be very similar, and those might be distilled to improve one's understanding of human condition.
 
 However, given language originates for communication between individuals, might it merely provide superficial insights into the inner landscape? Probably not. Our inner fauna of archetypes is likely what evolved to produce useful behaviours from inside, and certainly has a big role in developing these protocols by which we coordinate.
 
