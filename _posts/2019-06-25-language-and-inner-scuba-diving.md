@@ -5,7 +5,7 @@ project: ''
 ---
 What if by learning languages, you could be exploring the depths of the psyche as a side-effect?
 
-I've been learning mandarin for a few months and my brain has been PULSING because of all the slight flavours of words and sounds, and the nuances in phrases for everyday tasks and objects. I haven't even gotten very deep into abstract concepts, but I can see it's a totally separate space. Feels like exploring a familiar place in a parallel dimension, with diffent textures and colors.
+I've been learning mandarin for a few months and my brain has been PULSING because of all the slight flavors of words and sounds, and the nuances in phrases for everyday tasks and objects. I haven't even gotten very deep into abstract concepts, but I can see it's a totally separate space. Feels like exploring a familiar place in a parallel dimension, with different textures and colors.
 
 Romantically, I like to think of languages as products of the stories and recurring common experiences of their speakers throughout the ages. Speaking and thinking in several languages as window into fundamental human-ness. Not because individual words themselves shine light on archetypes (although there may be some particularly tidy showcases of this that I'm missing), but because of the whole of a language offering insight into the experience of its speakers, integrating into one's own mind some of the perspective and identity of a people.
 
