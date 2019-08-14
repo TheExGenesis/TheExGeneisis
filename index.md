@@ -16,6 +16,8 @@ xiq is short for Francisco, my name
 
 I'm based in Lisbon, Portugal
 
+I like to say I love everything, especially complex systems
+
 Currently a master's student in Computer Science, with a focus on AI
 
 Thinking about AI Governance, Safety, and Policy
