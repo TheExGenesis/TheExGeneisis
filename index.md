@@ -31,3 +31,9 @@ My interests range widely, and I do a lot of seemingly disconnected stuff. I lik
 [**THE VAULT**](vault.md)
 
 If you're the curious type, you'll want to browse [_The Vault_](vault.md "The Vault"). It's where I keep all my treasures: books, writings, and other links that I find interesting, important, or have otherwise influenced my thinking.
+
+**CONNECT**
+
+I'm seasonally active on [Twitter](https://twitter.com/home), and I oscillate between insightful discussion and dumb memes. Send me a DM.
+
+You can also reach me at francisco.de.carvalho@tecnico.ulisboa.pt for more formal inquiries.
