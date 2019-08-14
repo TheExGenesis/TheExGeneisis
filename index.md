@@ -24,6 +24,6 @@ I also make some [music]( "gnu.html") and philosophy here
 
 **WORK**
 
-My interests range wide, and I do a lot of seemingly disconnected stuff. I'm using the website to make sense of the fractal-like side-quests. I document most of them at the [sidequests page](pages/sidequests.html "Sidequests page").
+My interests range widely, and I do a lot of seemingly disconnected stuff. I'm using the website to make sense of the fractal-like side-quests. I document most of them at the [sidequests page](pages/sidequests.html "Sidequests page").
 
-In an attempt to further organize my informational universe, I curate what I call _The Vault_, a collection of books, writings, and other links that have influenced my thinking or I find otherwise important.
+In an attempt to further organize my informational universe, I curate what I call[ _The Vault_](pages/vault.html "The Vault..."), a collection of books, writings, and other links that have influenced my thinking or that I otherwise find important.
