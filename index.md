@@ -4,6 +4,7 @@ title: Home
 navlevel: header
 navtitle: About
 position: "1"
+published: false
 
 ---
 <img src="{{ site.url }}/assets/img/xiqpic.jpg" alt="me" width="200"/> 
