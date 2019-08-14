@@ -34,6 +34,6 @@ If you're the curious type, you'll want to browse [_The Vault_](vault.md "The Va
 
 **CONNECT**
 
-I'm seasonally active on [Twitter](https://twitter.com/home), and I oscillate between insightful discussion and dumb memes. Send me a DM.
+I'm seasonally active on [Twitter](https://twitter.com/home), and I oscillate between insightful discussion and dumb memes. Send me a DM if you'd like to reach me.
 
 You can also reach me at francisco.de.carvalho@tecnico.ulisboa.pt for more formal inquiries.
