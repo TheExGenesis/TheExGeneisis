@@ -10,12 +10,12 @@ Here I'll keep books and pieces I read that have influenced my thinking, and usu
 
 ##### Books:
 
-* Superintelligence (Bostrom)  : On problems we might face when we eventually develop general AI.
-* The Dictator’s Handbook (de Mesquita Bueno) : On dynamics of governance and maintaining power.
-* The Elephant in the Brain (Simler, Hanson) : A remarkable book on signalling and unconscious self-interested action.
-* Algorithms to Live (Christian, Griffiths) : I can stress enough how valuable this book is. As a computer scientist, I was already aware and applying several of the concepts here to my own life, but it was helpful to see it all layed out at once. Will do a post on this eventually.
-* Skin In the Game (Taleb) : Skin in the game as an important factor for the good functioning of human (or not) complex systems.
-* Gateless (Marshall) : A ton of great life-authoring advice that I mostly fail to follow. Will do a piece on this eventually.
+* [Superintelligence](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742) (Bostrom)  : On problems we might face when we eventually develop general AI.
+* [The Dictator’s Handbook](https://www.amazon.com/Dictators-Handbook-Behavior-Almost-Politics/dp/1610391845) (de Mesquita Bueno) : On dynamics of governance and maintaining power.
+* [The Elephant in the Brain ](https://www.amazon.com/Elephant-Brain-Hidden-Motives-Everyday/dp/0190495995)(Simler, Hanson) : A remarkable book on signalling and unconscious self-interested action.
+* [Algorithms to Live ](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)(Christian, Griffiths) : I can stress enough how valuable this book is. As a computer scientist, I was already aware and applying several of the concepts here to my own life, but it was helpful to see it all laid out at once. Will do a post on this eventually.
+* [Skin In the Game ](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X)(Taleb) : Skin in the game as an important factor for the good functioning of human (or not) complex systems.
+* [Gateless](https://www.amazon.com/Gateless-Sebastian-Marshall-ebook/dp/B00QANG7GM) (Marshall) : A ton of great life-authoring advice that I mostly fail to follow. Will do a piece on this eventually.
 * [A New Kind of Science](https://www.wolframscience.com/nks/) (Wolfram) : An interactive tome about a "a new kind of science" done through computational experiments, especially cellular automata. Highlight concepts might be [cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton) and the principle of computational irreducibility. The book is by no means rigorous or universally well liked.  
   I haven't read all the way through but there's a lot of philosophical value offered by many insights in the book. There's[ a particularly biting review](http://bactra.org/reviews/wolfram/) that is itself a good read.
 
