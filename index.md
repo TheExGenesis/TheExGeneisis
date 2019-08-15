@@ -10,7 +10,7 @@ position: 1
 
 Oh hey, I've been expecting you. Welcome to my little node of the web. Since you're here, you should probably know a few things.
 
-**BIO**
+**MICRO-BIO**
 
 xiq is short for Francisco, my name
 
@@ -20,7 +20,7 @@ I'm into mostly everything, including mathematics, philosophy, psychology, geopo
 
 Currently a master's student in Computer Science, with a focus on AI
 
-Thinking about AI Governance, Safety, and Policy
+Thinking about AI Governance
 
 I also make some [music](/_projects/gnu.md "GNU, the band") and philosophy here
 
@@ -34,6 +34,6 @@ If you're the curious type, you'll want to browse [_The Vault_](vault.md "The Va
 
 **CONNECT**
 
-I'm seasonally active on [Twitter](https://twitter.com/home), and I oscillate between insightful discussion and dumb memes. Send me a DM if you'd like to reach me.
+I'm seasonally active on [Twitter](https://twitter.com/home), and I oscillate between insightful discussion and dumb memes. Send me a DM if you'd like to talk to me.
 
 You can also reach me at francisco.de.carvalho@tecnico.ulisboa.pt for more formal inquiries.
