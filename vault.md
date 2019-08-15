@@ -29,6 +29,7 @@ Here I'll keep books and pieces I read that have influenced my thinking, and usu
 * [Leverage Points: Places to Intervene in a System](http://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/) : Fabulous piece on leverage points in complex systems that I try to reread as often as I can.
 * [Prickles and Goo](https://meltingasphalt.com/prickles-and-goo/) : Explains the concept of _Prickly_ and _Gooey_ personality as the _hard_ and _soft_ parts of our identities. He goes into what this means for the Self, seeing _prickles_ as conditions for the identity, and _goo_ as possible states, meaning that a Zen identity would be achieved when _prickliness_ is minimal, thus _goo_ all-encompassing. He also considers how different "games" might require different configurations of _prickles_ and _goo_.
 * [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) : "_They broke their backs lifting Moloch to Heaven!"_ Speaking of the self-sabotaging behavior that emerges from collective human action as _Moloch's will_ is one of the most valuable vocabulary acquisitions I've made lately. An instructive, clairvoyant write-up, introduced beautifully by Allen Ginsberg's poem. (fun fact, Swain used this paragraph's first phrase as a lyric in their song _Howl)_
+* [Mental Models](https://fs.blog/mental-models/) — Mental models have become kind of a meme in some circles, but I do think that having a list of concepts and framings for problems is super useful, so here you go.
 
 ##### Interactive Pieces
 
@@ -45,3 +46,4 @@ Here I'll keep books and pieces I read that have influenced my thinking, and usu
 * [Ribbonfarm](https://www.ribbonfarm.com) — Refactored perception, magical thinking, and other goodies. Some people like their older stuff better.
 * [Meaningness](https://meaningness.com/) — David Chapman's colossal hypertext book on philosophy and most things in life. I haven't read enough of it to give a fair impression, but I was pleased with what I've read so far and continue curious about it. 
 * [Epsilon Theory](https://www.epsilontheory.com) — A blog about investing and politics, although I see much more in it. I read it because it ends up being about society, about drawing new insights from complex and confusing data. They were the first people I knew of to make a "blog graph" like I've wanted to for so long, and they innovatively started using NLP to analyze the US presidential election.
+* [Farnham Street](https://fs.blog) — A blog about learning and decision-making.
