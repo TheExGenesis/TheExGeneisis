@@ -11,6 +11,7 @@ Here I'll keep books and pieces I read that have influenced my thinking, and usu
 ##### Books:
 
 * [Superintelligence](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742) (Bostrom)  — On problems we might face when we eventually develop general AI.
+* [Sapiens](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095) (Harari) — A very famous meme, still a beautiful overview/digest of human history. It helps in building a "frame" to fill with your own independent study of history.
 * [The Dictator’s Handbook](https://www.amazon.com/Dictators-Handbook-Behavior-Almost-Politics/dp/1610391845) (de Mesquita Bueno) — On dynamics of governance and maintaining power.
 * [The Elephant in the Brain ](https://www.amazon.com/Elephant-Brain-Hidden-Motives-Everyday/dp/0190495995)(Simler, Hanson) — A remarkable book on signalling and unconscious self-interested action.
 * [Algorithms to Live by](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365) (Christian, Griffiths) — I can stress enough how valuable this book is. As a computer scientist, I was already aware and applying several of the concepts here to my own life, but it was helpful to see it all laid out at once. Will do a post on this eventually.
@@ -21,6 +22,7 @@ Here I'll keep books and pieces I read that have influenced my thinking, and usu
 * [I Am a Strange Loop](https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793) (D. Hoftstadter) — By the author of _Godel, Escher, Bach_, it details what Hofstadter considered the most important (but underappreciated) takeaway from his other book. Deals with the recursive nature of consciousness and other dynamics within the soul and brain.
 * [King, Warrior, Magician, Lover](https://www.amazon.com/King-Warrior-Magician-Lover-Rediscovering/dp/0062506064) (R. Moore, D. Gillette) — An exploration of the role of four Jungian archetypes and their immature forms in men (although I think women could read and identify themselves in this just as well). Being aware of these archetypes helps you think about your own internal life more effectively. The authors also "make the argument that mature masculinity is not abusive or domineering, but generative, creative, and empowering of the self and others".
 * [The Book of Why](https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/0141982411) (J. Pearl) — Pearl's communication of the much needed branch of Causal Inference in Probability to the general reader. Great for any scientist dealing with data and statistics, but also for anyone who would like to boost their thinking toolbox.
+* [The Dawn of Eurasia](https://www.amazon.com/Dawn-Eurasia-Trail-World-Order/dp/0241309255) (B. Maçães) — A travel book through central Eurasia, a fresh perspective on its geopolitics, and an account and prediction of the rise of a Russia-China partnership, this time with China as the senior partner. Not a perfect book, but still illuminates what I believe is a deeply under-documented part of the world.
 
 ##### Written Pieces:
 
