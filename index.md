@@ -3,7 +3,7 @@ layout: page
 title: Home
 navlevel: header
 navtitle: About
-position: "1"
+position: 1
 
 ---
 <img src="{{ site.url }}/assets/img/xiqpic.jpg" alt="me" width="200"/>
