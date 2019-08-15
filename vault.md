@@ -36,6 +36,7 @@ Here I'll keep books and pieces I read that have influenced my thinking, and usu
 * [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) — "_They broke their backs lifting Moloch to Heaven!"_ Speaking of the self-sabotaging behavior that emerges from collective human action as _Moloch's will_ is one of the most valuable vocabulary acquisitions I've made lately. An instructive, clairvoyant write-up, introduced beautifully by Allen Ginsberg's poem. (fun fact, Swain used this paragraph's first phrase as a lyric in their song _Howl)_
 * [Mental Models](https://fs.blog/mental-models/) — Mental models have become kind of a meme in some circles, but I do think that having a list of concepts and framings for problems is super useful, so here you go.
 * [Places where reality is a bit altered](https://silent-wordsmith.tumblr.com/post/147470432974/places-where-reality-is-a-bit-altered) — Just a list with a short explanation. Most of them are liminal spaces between two others.
+* [Progressive Summarization](https://praxis.fortelabs.co/progressive-summarization-a-practical-technique-for-designing-discoverable-notes-3459b257d3eb/) — A Practical Technique for Designing Discoverable Notes. 
 
 ##### Interactive Pieces
 
