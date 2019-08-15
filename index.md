@@ -3,12 +3,12 @@ layout: page
 title: Home
 navlevel: header
 navtitle: About
-position: 1
+position: "1"
 
 ---
 <img src="{{ site.url }}/assets/img/xiqpic.jpg" alt="me" width="200"/>
 
-Oh hey, I've been expecting you. Welcome to my little node of the web. Since you're here, you should probably know a few things.
+Hi there, welcome to my little node of the web. Since you're here, you should probably know a few things.
 
 **MICRO-BIO**
 
@@ -16,7 +16,7 @@ xiq is short for Francisco, my name
 
 I'm based in Lisbon, Portugal
 
-I'm into mostly everything, including mathematics, philosophy, psychology, geopolitics, economics, language, art, memes, you name it. I know I know, _Jack of all trades, master of none..._ I'm looking for a unique synergy between my interests where I can be particularly useful. Sometimes I think I'm just into the complex systems elements in each subject. 
+I'm into mostly everything, including mathematics, philosophy, psychology, geopolitics, economics, language, art, memes, you name it. I know I know, _Jack of all trades, master of none..._ I'm looking for a unique synergy between my interests where I can be particularly useful. Sometimes I think I'm just into the complex systems elements in each subject.
 
 Currently a master's student in Computer Science, with a focus on AI
 
