@@ -35,3 +35,12 @@ Here I'll keep books and pieces I read that have influenced my thinking, and usu
 * [The Evolution of Trust](https://ncase.me/trust/) : An interactive introduction to Game Theory
 * [To Build a Better Ballot](https://ncase.me/ballot/) : Interactive exploration of voting systems.
 * [Going Critical](https://meltingasphalt.com/interactive/going-critical/) : Intuition on criticality in networks. Huge concepts in memetics.
+
+##### Blogs
+
+* [Less Wrong](https://www.lesswrong.com/about) — The classic blog on rationality and decision-making
+* [Slate Star Codex ](https://slatestarcodex.com)— a (delightful) "blog about science, medicine, philosophy, politics, and futurism"
+* [80,000 hours](https://80000hours.org/blog/) — For those struggling with what to do in life, a career guide based on Effective Altruism.
+* [Melting Asphalt](https://meltingasphalt.com/) — A blog with great, accessible articles on complex topics
+* [Ribbonfarm](https://www.ribbonfarm.com) — Refactored perception, magical thinking, and other goodies. Some people like their older stuff better.
+* [Meaningness](https://meaningness.com/) — David Chapman's colossal hypertext book on philosophy and most things in life. I haven't read enough of it to give a fair impression, but I was pleased with what I've read so far and continue curious about it. 
