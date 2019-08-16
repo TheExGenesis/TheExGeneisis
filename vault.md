@@ -3,7 +3,7 @@ layout: page
 title: The Vault
 navlevel: header
 navtitle: Vault
-position: "98"
+position: 98
 
 ---
 Here I'll keep books and pieces I read that have influenced my thinking, and usually contain new concepts that I've integrated into my models of the world.
@@ -55,3 +55,4 @@ Here I'll keep books and pieces I read that have influenced my thinking, and usu
 * [Epsilon Theory](https://www.epsilontheory.com) — A blog about investing and politics, although I see much more in it. I read it because it ends up being about society, about drawing new insights from complex and confusing data. They were the first people I knew of to make a "blog graph" like I've wanted to for so long, and they innovatively started using NLP to analyze the US presidential election.
 * [Farnham Street](https://fs.blog) — A blog about learning and decision-making.
 * [Patrick Collision](https://patrickcollison.com/advice) — He's got a pretty cool website with good advice and interesting lists of several kinds.
+* [Gwern](https://www.gwern.net) — Legend of the internet, crypto, and other odd topics.
