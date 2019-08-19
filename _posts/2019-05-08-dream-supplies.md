@@ -1,7 +1,7 @@
 ---
 layout: post
 project: china
-
+toc: true
 ---
 Been on the road a lot since the semester started in Beijing. I've seen the ancient capital of Xi'an, the millennarian Buddhist caves of Datong, and strolled the former concession metropolis of Tianjin, all as weekend trips. Right now I'm in the middle of the most ambitious outing yet: a two-week long shitty triangle across central China.
 

@@ -24,6 +24,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-toc
 
 github_username: TheExGenesis
 twitter_username: ExGenesis
@@ -32,6 +33,7 @@ instagram_username: theexgenesis
 color_scheme: github
 
 google_analytics: UA-41148046-3
+disqus_shortname: xiqo-xyz
 
 mathjax: true
 title: "xiq"

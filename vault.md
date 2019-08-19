@@ -4,7 +4,6 @@ title: The Vault
 navlevel: header
 navtitle: Vault
 position: 98
-
 ---
 Here I'll keep books and pieces I read that have influenced my thinking, and usually contain new concepts that I've integrated into my models of the world.
 
@@ -37,6 +36,7 @@ Here I'll keep books and pieces I read that have influenced my thinking, and usu
 * [Mental Models](https://fs.blog/mental-models/) — Mental models have become kind of a meme in some circles, but I do think that having a list of concepts and framings for problems is super useful, so here you go.
 * [Places where reality is a bit altered](https://silent-wordsmith.tumblr.com/post/147470432974/places-where-reality-is-a-bit-altered) — Just a list with a short explanation. Most of them are liminal spaces between two others.
 * [Progressive Summarization](https://praxis.fortelabs.co/progressive-summarization-a-practical-technique-for-designing-discoverable-notes-3459b257d3eb/) — A Practical Technique for Designing Discoverable Notes. 
+* [What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/) — Collection of links with advice for decision-making in life.
 
 ##### Interactive Pieces
 
@@ -48,11 +48,12 @@ Here I'll keep books and pieces I read that have influenced my thinking, and usu
 
 * [Less Wrong](https://www.lesswrong.com/about) — The classic blog on rationality and decision-making
 * [Slate Star Codex ](https://slatestarcodex.com)— a (delightful) "blog about science, medicine, philosophy, politics, and futurism"
-* [80,000 hours](https://80000hours.org/blog/) — For those struggling with what to do in life, a career guide based on Effective Altruism.
-* [Melting Asphalt](https://meltingasphalt.com/) — A blog with great, accessible articles on complex topics
+* [Gwern](https://www.gwern.net) — Legend of the internet, crypto, and other odd topics.
 * [Ribbonfarm](https://www.ribbonfarm.com) — Refactored perception, magical thinking, and other goodies. Some people like their older stuff better.
 * [Meaningness](https://meaningness.com/) — David Chapman's colossal hypertext book on philosophy and most things in life. I haven't read enough of it to give a fair impression, but I was pleased with what I've read so far and continue curious about it.
+* [Melting Asphalt](https://meltingasphalt.com/) — A blog with great, accessible articles on complex topics
+* [80,000 hours](https://80000hours.org/blog/) — For those struggling with what to do in life, a career guide based on Effective Altruism.
 * [Epsilon Theory](https://www.epsilontheory.com) — A blog about investing and politics, although I see much more in it. I read it because it ends up being about society, about drawing new insights from complex and confusing data. They were the first people I knew of to make a "blog graph" like I've wanted to for so long, and they innovatively started using NLP to analyze the US presidential election.
 * [Farnham Street](https://fs.blog) — A blog about learning and decision-making.
 * [Patrick Collision](https://patrickcollison.com/advice) — He's got a pretty cool website with good advice and interesting lists of several kinds.
-* [Gwern](https://www.gwern.net) — Legend of the internet, crypto, and other odd topics.
+* [Alexey Guzey](https://guzey.com/) — This guy is about my age and I can see he thinks similarly to me and has struggled with the same topics of friendship, purpose, and blogging. I'll keep this link here for a bit, see how I feel.

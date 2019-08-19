@@ -13,4 +13,4 @@ group :jekyll_plugins do
   gem 'jekyll-seo-tag'
 end
 
-# gem "jekyll-theme-kagami"
+gem 'jekyll-toc'
