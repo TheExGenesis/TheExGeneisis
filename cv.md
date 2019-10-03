@@ -52,7 +52,7 @@ Artificial Intelligence (AI) Governance, Complex Systems, Unsupervised Learning,
 
 ## **VOLUNTEERING**
 
-## **Director** at [Diferencial ](https://diferencial.tecnico.ulisboa.pt/)2018 - 2019
+**Director** at [Diferencial ](https://diferencial.tecnico.ulisboa.pt/)2018 - 2019
 
 Fundraising, recruiting, logistics, editing, and writing at the university school journal on politics, science and society
 
