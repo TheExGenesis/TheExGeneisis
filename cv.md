@@ -2,7 +2,6 @@
 short_name: cv
 name: CV
 status: ''
-published: false
 
 ---
 **FRANCISCO CARVALHO**
@@ -27,7 +26,7 @@ Bachelors in Computer Science and Engineering Jul 2018
 
 **COMPLEMENTARY ACTIVITIES**
 
-**Human-Aligned AI Summer School** Prague, Czechia**,** Jul 2019
+**Human-Aligned AI Summer School** Prague, Czechia, Jul 2019
 
 **AI Governance Workshop** ETH Zurich, Switzerland, Sep 2019
 
