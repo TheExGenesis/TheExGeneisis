@@ -8,17 +8,17 @@ status: ''
 
 ## **EDUCATION**
 
-**Tsinghua University** Beijing, China
+**Tsinghua University** Beijing, China (Feb 2019–Jul 2019)
 
-(Exchange program) Master’s in Computer Science and Engineering**.** Feb 2019–Jul 2019
+(Exchange program) Master’s in Computer Science and Engineering
 
-**Instituto Superior Técnico** Lisbon, Portugal
+**Instituto Superior Técnico** Lisbon, Portugal (Sep 2018 -)
 
-Master’s in Computer Science and Engineering (specializing in Artificial Intelligence) \[current GPA: 3.7\] Sep 2018 -
+Master’s in Computer Science and Engineering (specializing in Artificial Intelligence) \[current GPA: 3.7\] 
 
-**Instituto Superior Técnico** Lisbon, Portugal
+**Instituto Superior Técnico** Lisbon, Portugal (Jul 2018)
 
-Bachelors in Computer Science and Engineering Jul 2018
+Bachelors in Computer Science and Engineering 
 
 ## **COMPLEMENTARY ACTIVITIES**
 
@@ -32,7 +32,7 @@ Bachelors in Computer Science and Engineering Jul 2018
 
 **INESC-ID** Lisbon, Portugal
 
-_Internship_ Sep 2017 –Feb 2019
+_Internship_ (Sep 2017 –Feb 2019)
 
 Investigating the application of unsupervised learning methods to music emotional analysis. This was done under professor David Matos at L2F (Spoken Language Laboratory) of INESC-ID, the R&D division of the Insititute for the Engineering of Systems and Computers.
 
