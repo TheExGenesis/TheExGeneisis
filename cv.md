@@ -1,8 +1,9 @@
 ---
-short_name: cv
-name: CV
-status: ''
-
+layout: page
+title: CV
+navlevel: header
+navtitle: CV
+position: -1
 ---
 # **FRANCISCO CARVALHO'S CV**
 
