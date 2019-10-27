@@ -63,21 +63,20 @@ Artificial Intelligence (AI) Governance, Complex Systems, Unsupervised Learning,
 
 ## **VOLUNTEERING**
 
-**Director** at [Diferencial ](https://diferencial.tecnico.ulisboa.pt/)2018 - 2019
+* **Director** at [Diferencial ](https://diferencial.tecnico.ulisboa.pt/)2018 - 2019
 
-Fundraising, recruiting, logistics, editing, and writing at the university school journal on politics, science and society
+  Fundraising, recruiting, logistics, editing, and writing at the university school journal on politics, science and society
+* **Digital Rights Activism** regarding the European Copyright Directive Apr 2018 - present
 
-**Digital Rights Activism** regarding the European Copyright Directive Apr 2018 - present
-
-Analyzing european policy and producing informative summaries for the general public, organized 2 civic manifestations. Invited to the“Freedom not Fear” forum on digital rights and public policy in Brussels, in September 2018.
+  Analyzing european policy and producing informative summaries for the general public, organized 2 civic manifestations. Invited to the“Freedom not Fear” forum on digital rights and public policy in Brussels, in September 2018.
 
 ***
 
 ## **OTHER PROJECTS**
 
-* **PTParl -** (beta) A searchable online tool and API to scrutinize the proceedings of the portuguese parliament. present
-* **Portuguese Youth Parliament** - Twice selected to represent my districtin the national 2013, 2015
+* **PTParl -** (beta) A searchable online tool and API to scrutinize the proceedings of the portuguese parliament. (Present)
+* **Portuguese Youth Parliament** - Twice selected to represent my districtin the national (2013, 2015)
 * **Bistroteca (Music Festival)** - Montijo, Portugal
 
-  Planning, logistics, dealing with city hall, and producing of Bistroteca, an Alternative Music Festival, with hundreds in attendance. Jul 2015
-* **GNU** - Guitarist and composer in a math rock band.
+  Planning, logistics, dealing with city hall, and producing of Bistroteca, an Alternative Music Festival, with hundreds in attendance. (Jul 2015)
+* **GNU** - Guitarist and composer in a math rock band. (Present)
