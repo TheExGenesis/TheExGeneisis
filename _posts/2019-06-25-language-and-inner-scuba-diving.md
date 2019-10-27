@@ -15,9 +15,7 @@ Borrowing Wittgenstein's term, we can look at languages as collections of "langu
 
 However, given language originates for communication between individuals, might it merely provide superficial insights into the inner landscape? Probably not. Our inner fauna of archetypes is likely what evolved to produce useful behaviours from inside, and certainly has a big role in developing these protocols by which we coordinate.
 
-![](https://fractalsidequests.files.wordpress.com/2019/06/th.jpg =411x308)
-
-Man's task
+![Man's task](https://fractalsidequests.files.wordpress.com/2019/06/th.jpg "Man's task" =411x308)
 
 “Man’s task is…to become conscious of the contents that press upward from the unconscious. Neither should he persist in his unconsciousness nor remain identical with the unconscious elements of his being, thus evading his destiny, which is to create more and more consciousness. As far as we can discern, the sole purpose of human existence is to kindle a light in the darkness of mere being.” (Memories, Dreams, Reflections, Carl Jung)
 
