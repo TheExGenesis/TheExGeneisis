@@ -4,9 +4,6 @@ title: CV
 navlevel: header
 navtitle: CV
 position: -1
-short_name: ''
-name: ''
-status: ''
 
 ---
 **Francisco Carvalho**
