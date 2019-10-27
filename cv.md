@@ -76,9 +76,6 @@ Analyzing european policy and producing informative summaries for the general pu
 ## **OTHER PROJECTS**
 
 * **PTParl -** (beta) A searchable online tool and API to scrutinize the proceedings of the portuguese parliament. present
-* **Bibliometric information in Systematic Reviews** - Currently exploring the topic with a colleague and
-
-  researcher from the University of Warwick present
 * **Portuguese Youth Parliament** - Twice selected to represent my districtin the national 2013, 2015
 * **Bistroteca (Music Festival)** - Montijo, Portugal
 
