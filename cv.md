@@ -5,7 +5,7 @@ navlevel: header
 navtitle: CV
 position: -1
 short_name: cv
-name: ''
+name: cv
 status: ''
 
 ---
