@@ -4,32 +4,32 @@ title: CV
 navlevel: header
 navtitle: CV
 position: -1
+short_name: ''
+name: ''
+status: ''
+
 ---
-# **FRANCISCO CARVALHO'S CV**
+**Francisco Carvalho**
 
 ## **EDUCATION**
 
-**Tsinghua University** Beijing, China (Feb 2019–Jul 2019)
+* **Tsinghua University** Beijing, China (Feb 2019–Jul 2019)
 
-(Exchange program) Master’s in Computer Science and Engineering
+  (Exchange program) Master’s in Computer Science and Engineering
+* **Instituto Superior Técnico** Lisbon, Portugal (Sep 2018 -)
 
-**Instituto Superior Técnico** Lisbon, Portugal (Sep 2018 -)
+  Master’s in Computer Science and Engineering (specializing in Artificial Intelligence) \[current GPA: 3.7\]
+* **Instituto Superior Técnico** Lisbon, Portugal (Jul 2018)
 
-Master’s in Computer Science and Engineering (specializing in Artificial Intelligence) \[current GPA: 3.7\] 
-
-**Instituto Superior Técnico** Lisbon, Portugal (Jul 2018)
-
-Bachelors in Computer Science and Engineering 
+  Bachelors in Computer Science and Engineering
 
 ***
 
 ## **COMPLEMENTARY ACTIVITIES**
 
-**Human-Aligned AI Summer School** Prague, Czechia, Jul 2019
-
-**AI Governance Workshop** ETH Zurich, Switzerland, Sep 2019
-
-**World Democracy Forum** (selected for) Strasbourg, France, Nov 2019
+* **Human-Aligned AI Summer School** Prague, Czechia, Jul 2019
+* **AI Governance Workshop** ETH Zurich, Switzerland, Sep 2019
+* **World Democracy Forum** (selected for) Strasbourg, France, Nov 2019
 
 ***
 
@@ -39,7 +39,7 @@ Bachelors in Computer Science and Engineering
 
 _Internship_ (Sep 2017 –Feb 2019)
 
-Investigating the application of unsupervised learning methods to music emotional analysis. This was done under professor David Matos at L2F (Spoken Language Laboratory) of INESC-ID, the R&D division of the Insititute for the Engineering of Systems and Computers.
+Investigating the application of unsupervised learning methods to music emotional analysis. This was done under professor David Matos at L2F (Spoken Language Laboratory) of INESC-ID, the R&D division of the Institute for the Engineering of Systems and Computers.
 
 ***
 
