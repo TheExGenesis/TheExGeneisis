@@ -11,7 +11,7 @@ status: ''
 ---
 **Francisco Carvalho**
 
-## **EDUCATION**
+#### **EDUCATION**
 
 * **Tsinghua University** Beijing, China (Feb 2019–Jul 2019)
 
@@ -25,7 +25,7 @@ status: ''
 
 ***
 
-## **COMPLEMENTARY ACTIVITIES**
+#### **COMPLEMENTARY ACTIVITIES**
 
 * **Human-Aligned AI Summer School** Prague, Czechia, (Jul 2019)
 * **AI Governance Workshop** ETH Zurich, Switzerland, (Sep 2019)
@@ -33,7 +33,7 @@ status: ''
 
 ***
 
-## **RESEARCH EXPERIENCE**
+#### **RESEARCH EXPERIENCE**
 
 **INESC-ID** Lisbon, Portugal
 
@@ -55,13 +55,13 @@ Investigating the application of unsupervised learning methods to music emotiona
 
   ***
 
-## **RESEARCH INTERESTS**
+#### **RESEARCH INTERESTS**
 
 Artificial Intelligence (AI) Governance, Complex Systems, Unsupervised Learning, Reinforcement Learning, Computational Social Science, Distributed Systems applied to Democratic Governance, Institutional Design
 
 ***
 
-## **VOLUNTEERING**
+#### **VOLUNTEERING**
 
 * **Director** at [Diferencial ](https://diferencial.tecnico.ulisboa.pt/)(2018 - 2019)
 
@@ -72,7 +72,7 @@ Artificial Intelligence (AI) Governance, Complex Systems, Unsupervised Learning,
 
 ***
 
-## **OTHER PROJECTS**
+#### **OTHER PROJECTS**
 
 * **PTParl -** (beta) A searchable online tool and API to scrutinize the proceedings of the portuguese parliament. (Present)
 * **Portuguese Youth Parliament** - Twice selected to represent my districtin the national (2013, 2015)
