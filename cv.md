@@ -4,6 +4,9 @@ title: CV
 navlevel: header
 navtitle: CV
 position: -1
+short_name: ''
+name: ''
+status: ''
 
 ---
 **Francisco Carvalho**
@@ -24,9 +27,9 @@ position: -1
 
 ## **COMPLEMENTARY ACTIVITIES**
 
-* **Human-Aligned AI Summer School** Prague, Czechia, Jul 2019
-* **AI Governance Workshop** ETH Zurich, Switzerland, Sep 2019
-* **World Democracy Forum** (selected for) Strasbourg, France, Nov 2019
+* **Human-Aligned AI Summer School** Prague, Czechia, (Jul 2019)
+* **AI Governance Workshop** ETH Zurich, Switzerland, (Sep 2019)
+* **World Democracy Forum** Strasbourg, France, (Nov 2019)
 
 ***
 
@@ -60,10 +63,10 @@ Artificial Intelligence (AI) Governance, Complex Systems, Unsupervised Learning,
 
 ## **VOLUNTEERING**
 
-* **Director** at [Diferencial ](https://diferencial.tecnico.ulisboa.pt/)2018 - 2019
+* **Director** at [Diferencial ](https://diferencial.tecnico.ulisboa.pt/)(2018 - 2019)
 
   Fundraising, recruiting, logistics, editing, and writing at the university school journal on politics, science and society
-* **Digital Rights Activism** regarding the European Copyright Directive Apr 2018 - present
+* **Digital Rights Activism** regarding the European Copyright Directive (Apr 2018 - present)
 
   Analyzing european policy and producing informative summaries for the general public, organized 2 civic manifestations. Invited to the“Freedom not Fear” forum on digital rights and public policy in Brussels, in September 2018.
 
