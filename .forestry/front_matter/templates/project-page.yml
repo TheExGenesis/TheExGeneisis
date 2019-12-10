@@ -12,5 +12,5 @@ fields:
   name: status
   label: status
 pages:
-- _projects/aigov.md
 - cv.md
+- _projects/aigov.md

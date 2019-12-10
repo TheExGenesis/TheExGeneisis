@@ -4,7 +4,9 @@ title: CV
 navlevel: header
 navtitle: CV
 position: -1
-
+short_name: ''
+name: ''
+status: ''
 
 ---
 **Francisco Carvalho**
@@ -28,6 +30,7 @@ position: -1
 * **Human-Aligned AI Summer School** Prague, Czechia, (Jul 2019)
 * **AI Governance Workshop** ETH Zurich, Switzerland, (Sep 2019)
 * **World Democracy Forum** Strasbourg, France, (Nov 2019)
+* **AI Safety Research Program** Oxford, UK, (Nov 2019)
 
 ***
 
