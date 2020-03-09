@@ -14,4 +14,4 @@ project: ''
 
 For real though, as part of my weekly reviews I'll be posting 5 links of things I find every week with brief explainers of why I like them. This way, you can benefit from my useless scouring of the web, and I can signal my eclectic taste. If I stick to it for a month I'll make it a newsletter.
 
-The first one's [here](2020-03-09-offering-1.md)
+The first one's [here](_posts/2020-03-09-offering-1.md)
