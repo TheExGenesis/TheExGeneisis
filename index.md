@@ -6,34 +6,13 @@ navtitle: About
 position: 1
 
 ---
+francisco.de.carvalho at tecnico.ulisboa.pt
 <img src="{{ site.url }}/assets/img/xiqpic.jpg" alt="me" width="200"/>
 
 Hi there, welcome to my little node of the web. Since you're here, you should probably know a few things.
 
-**MICRO-BIO**
+xiq is short for Francisco. I'm based in Lisbon, Portugal
 
-xiq is short for Francisco, my name
+I really dig the universe and specifically this world. Because of that I'm into Art, Geopolitics, Complex Systems, Computer Science, in that order.
 
-I'm based in Lisbon, Portugal
-
-I'm into mostly everything, including mathematics, philosophy, psychology, geopolitics, economics, language, art, memes, you name it. I know I know, _Jack of all trades, master of none..._ I'm looking for a unique synergy between my interests where I can be particularly useful. Sometimes I think I'm just into the complex systems elements in each subject.
-
-Currently a master's student in Computer Science, with a focus on AI
-
-Thinking about AI Governance
-
-I also make some [music](/_projects/gnu.md "GNU, the band") and philosophy here
-
-[**SIDEQUESTS**](sidequests.html)
-
-My interests range widely, and I do a lot of seemingly disconnected stuff. I like to call them sidequests, and they take up a bit of a fractal structure, in that they go arbitrarily deep and arbitrarily wide in scope. I'm using the website to make sense of these fractal sidequests. Most of them live in the [sidequests page](sidequests.html "Sidequests page").
-
-[**THE VAULT**](vault.md)
-
-If you're the curious type, you'll want to browse [_The Vault_](vault.md "The Vault"). It's where I keep all my treasures: books, writings, and other links that I find interesting, important, or have otherwise influenced my thinking.
-
-**CONNECT**
-
-I'm seasonally active on [Twitter](https://twitter.com/home), and I oscillate between insightful discussion and dumb memes. Send me a DM if you'd like to talk to me.
-
-You can also reach me at francisco.de.carvalho@tecnico.ulisboa.pt for more formal inquiries.
+[@ExGenesis on Twitter](https://twitter.com/home)
