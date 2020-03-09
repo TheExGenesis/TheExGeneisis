@@ -11,8 +11,8 @@ position: 1
 francisco.de.carvalho at tecnico.ulisboa.pt
 <img src="{{ site.url }}/assets/img/xiqpic.jpg" alt="me" width="200"/>
 
-Hi there and welcome. Xiq is short for Francisco and I'm based in Lisbon, Portugal
+Hello and welcome. Xiq is short for Francisco and I'm based in Lisbon, Portugal
 
-I really dig the universe and specifically this world. Because of that I'm into Art, Geopolitics, Complex Systems, Computer Science, in that order.
+I really dig the universe and specifically this world. Because of that I'm into memes, art, geopolitics, complex systems, somputer science, in that order.
 
 [@ExGenesis on Twitter](https://twitter.com/home)
