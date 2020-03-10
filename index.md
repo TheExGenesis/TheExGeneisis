@@ -15,4 +15,6 @@ Hello and welcome. Xiq is short for Francisco and I'm based in Lisbon, Portugal
 
 I really dig the universe and specifically this world. Because of that I'm into memes, art, geopolitics, complex systems, computer science, in that order.
 
+To see stuff I've done you can check out the [vault](vault.md)
+
 [@ExGenesis on Twitter](https://twitter.com/home)
