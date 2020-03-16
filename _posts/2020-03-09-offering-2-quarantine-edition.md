@@ -3,7 +3,7 @@ layout: post
 project: 'offerings'
 
 ---
-Gather ye to observe the spoils from this week's foraging! I bring you post-modern esotericism and dope aesthetics. 
+Gather ye to observe the spoils from this week's foraging! I bring you post-modern esotericism and dope aesthetics. (also check out [last week's](offering-1) offering)
 
 ***
 
