@@ -16,13 +16,7 @@ Gather ye to observe the spoils from this week's foraging! I bring you post-mode
 
 ***
 
-## [x-ray - Tommy Cash](https://youtu.be/K5kD_vYnbe4)
-- I just appreciate his "human body" aesthetics and that hard bass chorus SLAPS, I want more of that in my life. Shout out to my Estonian friend Ilona. 
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2FOQb16ALPor?alt=media&token=12da2c73-e9fc-464c-b86a-12e1c7c1d515)
-    
-***
-
-## Jreg
+## [Jreg](https://youtu.be/Yqv9LGkG_7Q)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2FRk_QNEG3j3?alt=media&token=7faf7fbc-4257-4364-a21e-99165b172a9b)
 - I've been obsessed with Jreg for the past week or two, his shitpost quality production, meta-irony, channel lore, and run-ins with eldritch horror pull threads. 
 [I'm a spook](https://youtu.be/Yqv9LGkG_7Q) imo is my favorite considering signal/length and points out the parasocial nature of youtuber-audience relationships while riffing on the underlying egregore that necessitates "youtube personalities". 
@@ -33,7 +27,7 @@ Gather ye to observe the spoils from this week's foraging! I bring you post-mode
 
 ## [Exploring Egregores](https://exploringegregores.wordpress.com/who-worships-an-evil-god-2/)
 
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2FfTJ5FRfnPM?alt=media&token=0c9597b7-084b-4506-a368-2d62ecd76e37)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2FRoY_b_yERL?alt=media&token=c52e65b6-7ade-4cbd-bfb4-1a9f7d4e939b)
 
 - From reading [Carl Jung's Aion](https://en.wikipedia.org/wiki/Aion:_Researches_into_the_Phenomenology_of_the_Self), watching Jreg bring his eldritch horror game, and several disparate conversations with friends this week, my head has been all about [egregores](https://en.wikipedia.org/wiki/Egregore). Shout out to [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) and (pardon me) [The Cult of Gnon](http://www.xenosystems.net/the-cult-of-gnon/) for being my first contacts with this memeplex.
 
@@ -57,5 +51,12 @@ Gather ye to observe the spoils from this week's foraging! I bring you post-mode
 
 ![](/assets/img/Jogo_do_Pau_Documentary_Master_Russo_1991.gif)
 
+***
+
+## [x-ray - Tommy Cash](https://youtu.be/K5kD_vYnbe4)
+- I just appreciate his "human body" aesthetics and that hard bass chorus SLAPS, I want more of that in my life. Shout out to my Estonian friend Ilona. 
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2FOQb16ALPor?alt=media&token=12da2c73-e9fc-464c-b86a-12e1c7c1d515)
+    
+***
 
 Thanks for reading!
