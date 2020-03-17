@@ -12,6 +12,7 @@ outputs:
 
 ---
 {% include default-page.html %}
+
 <p style="background-color:yellow">This website might currently be undergoing reconstruction</p>
 
 francisco.de.carvalho at tecnico.ulisboa.pt
