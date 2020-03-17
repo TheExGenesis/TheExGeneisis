@@ -106,6 +106,7 @@ function loadSearch() {
       threshold: 0.4,
       minMatchCharLength: 2,
       keys: [
+        'title',
         'date',
         'url',
         'content'
