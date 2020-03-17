@@ -5,13 +5,18 @@ navlevel: header
 navtitle: About
 position: 1
 
+outputs:
+- html
+- rss
+- json
+
 ---
 <p style="background-color:yellow">This website might currently be undergoing reconstruction</p>
 
 francisco.de.carvalho at tecnico.ulisboa.pt
 <img src="{{ site.url }}/assets/img/xiqpic.jpg" alt="me" width="200"/>
 
-Hello and welcome. Xiq is short for Francisco.  I'm based in Lisbon, Portugal.
+Hello and welcome. Xiq is short for Francisco. I'm based in Lisbon, Portugal.
 
 I really dig the universe and specifically this world. Because of that I'm into memes, art, geopolitics, complex systems, computer science, in that order.
 

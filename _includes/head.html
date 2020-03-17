@@ -5,6 +5,7 @@
 
   <title>{% if page.title %}{{ page.title | append: " - " | append: site.title | escape }}{% else %}{{  | escape }}{% endif %}</title>
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <link href="/css/all.css" rel="stylesheet">
 
   {% assign v = site.time | date: "%Y%m%d%H%M%S" %}
   <link rel="stylesheet" href="{{ "/assets/styles/core.css?v=" | append: v | relative_url }}">
@@ -22,4 +23,12 @@
   {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}
   {% endif %}
+
+  <div id="fastSearch">
+    <input id="searchInput" tabindex="0">
+    <ul id="searchResults">
+    </ul>
+  </div>
+  <script src="/js/fuse.js"></script> <!-- download and copy over fuse.js file from fusejs.io -->
+  <script src="/js/fastsearch.js"></script>
 </head>
