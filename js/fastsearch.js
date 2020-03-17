@@ -106,9 +106,9 @@ function loadSearch() {
       threshold: 0.4,
       minMatchCharLength: 2,
       keys: [
-        'title',
-        'permalink',
-        'summary'
+        'date',
+        'url',
+        'content'
         ]
     };
     fuse = new Fuse(data, options); // build the index from the json file
