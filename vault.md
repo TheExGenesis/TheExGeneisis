@@ -6,7 +6,7 @@ navtitle: Vault
 position: 99
 
 ---
-{% include default-page.html %}
+{% include default.html %}
 
 This is basically supposed to be a living CV.
 
