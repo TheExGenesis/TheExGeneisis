@@ -1,5 +1,4 @@
 ---
-layout: empty
 ---
 {"items":[{% for post insite.posts %}{ 
     "title": {{post.title | jsonify}}, 
