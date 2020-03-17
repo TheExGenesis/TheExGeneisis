@@ -11,7 +11,6 @@ outputs:
 - json
 
 ---
-{% include default.html %}
 
 <p style="background-color:yellow">This website might currently be undergoing reconstruction</p>
 
