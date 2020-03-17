@@ -1,5 +1,6 @@
 ---
 layout: post
+title: The mind and other icipient ecologies
 project: ''
 
 ---
