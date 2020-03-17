@@ -6,6 +6,8 @@ navtitle: Vault
 position: 99
 
 ---
+{% include default-page.html %}
+
 This is basically supposed to be a living CV.
 
 Pages for things I've done, projects I am undertaking now, ones I've finished, or just chapters of my life that are over and can be delimited.
