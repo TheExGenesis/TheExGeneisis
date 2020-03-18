@@ -3,4 +3,5 @@
   {% for my_page in sorted_pages %}
   <a class="page-link" href="{{ my_page.url | relative_url }}" >{{ my_page.navtitle | default: my_page.title | escape }}</a>
   {% endfor %}
+  <img id="searchicon" src="/assets/img/search.svg" class="search-icon">
 </nav>
