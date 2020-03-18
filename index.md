@@ -15,7 +15,6 @@ outputs:
 <p style="background-color:yellow">This website might currently be undergoing reconstruction</p>
 
 francisco.de.carvalho at tecnico.ulisboa.pt
-<img src="{{ site.url }}/assets/img/xiqpic.jpg" alt="me" width="200"/>
 
 Hello and welcome. Xiq is short for Francisco. I'm based in Lisbon, Portugal. 
 
