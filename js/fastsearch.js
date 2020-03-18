@@ -124,7 +124,7 @@ function loadSearch() {
       shouldSort: true,
       location: 0,
       distance: 100,
-      threshold: 0.4,
+      threshold: 0.7,
       minMatchCharLength: 2,
       keys: [
         'title',
@@ -151,7 +151,7 @@ function executeSearch(term) {
     resultsAvailable = false;
     searchitems = '';
   } else { // build our html 
-    for (let item in results.slice(0,5)) { // only show first 5 results
+    for (let item in results.slice(0,8)) { // only show first 8results
       r = results[item].item
       if(r.date){ //wiki pages have no date
           var date = r.date;
