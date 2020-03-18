@@ -127,7 +127,7 @@ function loadSearch() {
       keys: [
         'title',
         'url',
-        'date'
+        'date',
         'content'
         ]
     };
