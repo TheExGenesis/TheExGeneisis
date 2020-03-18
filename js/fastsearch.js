@@ -107,8 +107,8 @@ function loadSearch() {
       minMatchCharLength: 2,
       keys: [
         'title',
-        'date',
         'url',
+        'date',
         'content'
         ]
     };
