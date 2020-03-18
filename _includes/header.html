@@ -1,7 +1,7 @@
 <header class="post-header">
   <a class="site-title" href="{{ "/" | relative_url }}">{{ "Francisco Carvalho" | escape }}</a>
   <h1 class="post-title" itemprop="name headline">{{ page.title | escape | replace: "​", "<wbr>" }}</h1>
-  <div><img id="searchicon" src="/assets/img/search.svg"></div>        
+  <div class="wrapper"><img id="searchicon" src="/assets/img/search.svg"></div>        
 </header>
 
 {% if page.cover_url %}
@@ -14,11 +14,12 @@
 
 {% endif %}
 
-
-<div id="fastSearch">
-  <input id="searchInput" tabindex="0">
-  <ul id="searchResults">
-  </ul>
+<div id="searchmenu" >
+  <div id="fastSearch">
+    <input id="searchInput" tabindex="0">
+    <ul id="searchResults">
+    </ul>
+  </div>
 </div>
 <script src="/js/fuse.js"></script>
 <script src="/js/fastsearch.js"></script>
