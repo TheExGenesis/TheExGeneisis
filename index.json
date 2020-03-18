@@ -6,11 +6,13 @@ layout: empty
     "url": {{ post.url | prepend: site.baseurl | prepend: site.url | jsonify }}, 
     "date": {{ post.date | date: '%B %-d, %Y' | jsonify }}, 
     "content": {{ post.content | strip_html | strip_newlines | jsonify }} }, {% endfor %}
-{% for page in site.pages | where_exp: "page", "page.title !=" %}{
-    "title": {{page.title | jsonify}}, 
-    "url": {{ page.url | prepend: site.baseurl | prepend: site.url | jsonify }}, 
-    "date": {{ page.date | date: '%B %-d, %Y' | jsonify }}, 
-    "content": {{ page.content | strip_html | strip_newlines | jsonify }} }, {% endfor %}
+{% for page in site.pages %}{
+    {% if page.title %}
+        "title": {{page.title | jsonify}}, 
+        "url": {{ page.url | prepend: site.baseurl | prepend: site.url | jsonify }}, 
+        "date": {{ page.date | date: '%B %-d, %Y' | jsonify }}, 
+        "content": {{ page.content | strip_html | strip_newlines | jsonify }} }, {% endfor %}
+    {% endif %}
 {% for project in site.projects %}{
     "title": {{project.title | jsonify}}, 
     "url": {{ project.url | prepend: site.baseurl | prepend: site.url | jsonify }}, 
