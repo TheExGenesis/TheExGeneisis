@@ -130,7 +130,12 @@ function executeSearch(term) {
     searchitems = '';
   } else { // build our html 
     for (let item in results.slice(0,5)) { // only show first 5 results
-      searchitems = searchitems + '<li><a href="' + results[item].permalink + '" tabindex="0">' + '<span class="title">' + results[item].title + '</span><br /> <span class="sc">'+ results[item].section +'</span> — ' + results[item].date + ' — <em>' + results[item].desc + '</em></a></li>';
+      if(results[item].date){ //wiki pages have no date
+          var date = results[item].date;
+      }else{
+        var date = "";
+      };
+      searchitems = searchitems + '<li><a href="' + results[item].url + '" tabindex="0">' + '<span class="title"><strong>' + results[item].title + '</strong></span><br /> ' + date + ' — <em>' + results[item].content.substring(0,90) + '</em></a></li>';
     }
     resultsAvailable = true;
   }
