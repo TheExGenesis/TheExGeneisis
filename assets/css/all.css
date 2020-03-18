@@ -14,7 +14,7 @@
     font-size: 1.6em;
     color: #000;
     font-weight: bold;
-    background-color: #fff;
+    background-color: #f0f0f0;
     border-radius: 3px 3px 0px 0px;
     border: none;
     outline: none;
@@ -25,8 +25,8 @@
   #searchResults li { 
     list-style: none; 
     margin-left: 0em;
-    background-color: #eee; 
-    border-bottom: 1px dotted #fff;
+    background-color: #fff; 
+    border-bottom: 1px dotted #ddd;
   }
     #searchResults li .title { font-size: 1.1em; margin-bottom: 10px; display: inline-block;}
   
