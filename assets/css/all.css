@@ -25,7 +25,7 @@
   #searchResults li { 
     list-style: none; 
     margin-left: 0em;
-    background-color: #ccc; 
+    background-color: #eee; 
     border-bottom: 1px dotted #fff;
   }
     #searchResults li .title { font-size: 1.1em; margin-bottom: 10px; display: inline-block;}
