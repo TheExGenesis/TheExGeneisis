@@ -7,6 +7,25 @@ var last = list.lastChild; // last child of search list
 var maininput = document.getElementById('searchInput'); // input box for search
 var resultsAvailable = false; // Did we get any search results?
 
+//add search box click option
+document.getElementById("searchicon").onclick = function(){
+  if(firstRun) {
+    loadSearch(); // loads our json data and builds fuse.js search index
+    firstRun = false; // let's never do this again
+  }
+
+  // Toggle visibility of search box
+  if (!searchVisible) {
+    document.getElementById("searchmenu").style.display = "block"; // show search box
+    document.getElementById("searchInput").focus(); // put focus in input box so you can just start typing
+    searchVisible = true; // search visible
+  }
+  else {
+    document.getElementById("searchmenu").style.display = "none"; // hide search box
+    document.activeElement.blur(); // remove focus from search box 
+    searchVisible = false; // search not visible
+  }
+}
 // ==========================================
 // The main keyboard event listener running the show
 //
