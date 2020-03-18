@@ -11,8 +11,9 @@ layout: empty
         "title": {{page.title | jsonify}}, 
         "url": {{ page.url | prepend: site.baseurl | prepend: site.url | jsonify }}, 
         "date": {{ page.date | date: '%B %-d, %Y' | jsonify }}, 
-        "content": {{ page.content | strip_html | strip_newlines | jsonify }} }, {% endfor %}
+        "content": {{ page.content | strip_html | strip_newlines | jsonify }} 
     {% endif %}
+    }, {% endfor %}
 {% for project in site.projects %}{
     "title": {{project.title | jsonify}}, 
     "url": {{ project.url | prepend: site.baseurl | prepend: site.url | jsonify }}, 
