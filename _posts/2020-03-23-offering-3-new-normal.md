@@ -26,7 +26,7 @@ I hope everyone's settled into their new lives as apartment dwellers. Personally
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2FngJHB954nw?alt=media&token=48c69236-7d3c-4d8d-b456-1f09909bf8d2)
 - Last week I shared this blog _Exploring Egregores_ that wrote about ideas as eldritch lovecraftian gods - which I hadn't fully read - but now that I have, this is the one that stuck with me the most.
 
-- Ithalqua is visually associated with the _Wendigo_, is also called the kidnapper, and wanders the icy polar wastes. Like Elsa in Frozen, it is self-reliant, and stands for one's turning away from society to delve into one's projects or self. 
+- Ithalqua is visually associated with the _Wendigo_, it is also called the kidnapper, and wanders the icy polar wastes. Like Elsa in Frozen, it is self-reliant, and stands for one's turning away from society to delve into one's projects or self. 
 
 - The faustian bargain here is that you become incomprehensible to others and detached from human ties. To me, the icy wastes it dwells in are the effort others must go through to reach you in your castle of jargon and introspection after doing your own thing for a while.
 
@@ -36,11 +36,11 @@ I hope everyone's settled into their new lives as apartment dwellers. Personally
 
 ## [Information Geometry](http://bactra.org/notebooks/info-geo.html) - thinking spatially about the fuzzy
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2F9bTtGWj8ql?alt=media&token=ef4940dc-201a-400d-aaba-93319f8aba73)
-- A friend brought this field of math to my attention while introspecting a bit. I consider this as much part of my AI research as of my arcane studies - I haven't seriously studied it though, so it's just a bookmark.
+- A friend brought this field of math to my attention while co-introspecting a bit. I consider this as much part of my AI research as of my arcane studies - I haven't seriously studied it though, so it's just a bookmark.
 
-- The link shared is from Cosma Shalizi's blog bactra (ancient hellenic Tajikistan/Uzbekistan) and he describes the field as the application of differential geometry to probability distributions, and so to statistical models.
+- The link shared is from Cosma Shalizi's blog _Bactra_ (ancient hellenic Tajikistan/Uzbekistan) and he describes the field as the application of differential geometry to probability distributions, and so to statistical models.
 
-- From what I gather, Information Geometry studies Riemannian manifolds where points are distributions. In a very libertine description: It's differential geometry where KL-divergence (or relative entropy) works as a metric (but not really because it's asymmetric) and Fisher information (2nd derivative of the likelihood function, and the inverse of the covariance matrix) works as curvature. (If I'm not egregiously mistaken) This allows people to prove theorems about statistical models by conceptualizing them as well-behaved geometrical objects and then using geometrical tools on them. John Baez has a [nice series of posts ](http://math.ucr.edu/home/baez/information/)for anyone seeking technical insight.
+- From what I gather, Information Geometry studies manifolds where points are distributions. Put in a very libertine way: It's differential geometry where KL-divergence (or relative entropy) works as a metric (but not really because it's asymmetric) and Fisher information (2nd derivative of the likelihood function, and the inverse of the covariance matrix) works as curvature. (If I'm not egregiously mistaken) This allows people to prove theorems about statistical models by conceptualizing them as well-behaved geometrical objects and then using geometrical tools on them. John Baez has a [nice series of posts](http://math.ucr.edu/home/baez/information/) for anyone seeking more technical insight.
 
 - This is relevant to me because of the way I visualize the information flows of research, discovery, and creativity in my head.
 
