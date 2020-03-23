@@ -18,9 +18,11 @@ Gather ye to observe the spoils from this week's foraging! I bring you post-mode
 
 ## [Jreg](https://youtu.be/Yqv9LGkG_7Q)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2FRk_QNEG3j3?alt=media&token=7faf7fbc-4257-4364-a21e-99165b172a9b)
-- I've been obsessed with Jreg for the past week or two, his shitpost quality production, meta-irony, channel lore, and run-ins with eldritch horror pull threads. 
+- I've been obsessed with Jreg for the past week or two, his shitpost quality production, meta-irony, channel lore, and run-ins with eldritch horror manage to pull threads within. 
 [I'm a spook](https://youtu.be/Yqv9LGkG_7Q) imo is my favorite considering signal/length and points out the parasocial nature of youtuber-audience relationships while riffing on the underlying egregore that necessitates "youtube personalities". 
+
 - However, [Frameworthless](https://www.youtube.com/watch?v=WYhhUcYN4mw) helped me with some personal issues I've been going through and I found the editing pretty funny.
+
 - Finally, a shout-out to [Centricide](https://www.youtube.com/watch?v=cTFiTqe1sng&list=PLGALsgF3LJjxcs7Hc9aPZwPqd1toJbcrJ), the ongoing epic anthropomorphizing the [political compass](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Political_Compass_yellow_LibRight.svg/543px-Political_Compass_yellow_LibRight.svg.png), just watched the whole thing again with my girlfriend.
 
 ***
@@ -29,7 +31,7 @@ Gather ye to observe the spoils from this week's foraging! I bring you post-mode
 
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2FRoY_b_yERL?alt=media&token=c52e65b6-7ade-4cbd-bfb4-1a9f7d4e939b)
 
-- From reading [Carl Jung's Aion](https://en.wikipedia.org/wiki/Aion:_Researches_into_the_Phenomenology_of_the_Self), watching Jreg bring his eldritch horror game, and several disparate conversations with friends this week, my head has been all about [egregores](https://en.wikipedia.org/wiki/Egregore). Shout out to [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) and (pardon me) [The Cult of Gnon](http://www.xenosystems.net/the-cult-of-gnon/) for being my first contacts with this memeplex.
+- From reading [Carl Jung's Aion](https://en.wikipedia.org/wiki/Aion:_Researches_into_the_Phenomenology_of_the_Self), watching Jreg bring his eldritch horror game to the table, and several disparate conversations with friends this week, my head has been all about [egregores](https://en.wikipedia.org/wiki/Egregore). Shout out to [Meditations on Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/) and (pardon me) [The Cult of Gnon](http://www.xenosystems.net/the-cult-of-gnon/) for being my first contacts with this memeplex.
 
 - I'm using this blog I just rediscovered as an excuse/in-depth introduction to the space. Its vibe doesn't really match my own on the topic, but hey it's better than nothing.
 
