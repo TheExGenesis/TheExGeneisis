@@ -9,18 +9,14 @@ I hope everyone's settled into their new lives as apartment dwellers. Personally
 
 ## [Chaos Magic](https://en.wikipedia.org/wiki/Chaos_magic)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2FiY9YAEl2_c?alt=media&token=ba30aa2a-6361-4f77-98f3-a11e93dd7203)
-- I haven't delved very deep into the topic, but I've seen some good indicators that I'll want to. It just seems connected to so many things I've been interested in: information systems, complex networks, psychonauts like Terrence McKenna and Alan Moore, works like _The Sandman_ and _The Invisibles_, lovecraftian egregores, Jung and the collective unconscious, comparative religion, memetics, etc.
-- Two more reasons why I'm drawn to this:
+- I haven't delved very deep into the topic, but I've seen some good indicators that I'll want to. It just seems connected to so many things I've been interested in: information systems, complex networks, psychonauts like Terrence McKenna and Alan Moore, works like _The Sandman_ and _The Invisibles_, lovecraftian egregores, Jung and the collective unconscious, comparative religion, memetics, etc. Two more reasons why I'm drawn to this:
 - First, the word _chaos_ points to the intractable and the yet-unmapped, which coincide with where I think the usually referred as "supernatural" lies. 
-- Second, its meta-belief that "belief is a tool for achieving effects". It feels quite postmodern (in the _hurr nothing means anything_ sense) and I question from the outside how benign that is.
-- It seems like symbols and practices from many mystical traditions are seen as manifestations of the same archetypes and used interchangeably.
+- Second, its meta-belief that "belief is a tool for achieving effects". It seems like symbols and practices from many mystical traditions are seen as manifestations of the same archetypes and used interchangeably. However, it feels quite postmodern (in the _hurr nothing means anything_ sense) and I question from the outside how benign that bit is.
 - This focus on instrumental beliefs brings to mind something I read in _The Elephant in the brain_ on how having disparate conscious and unconscious beliefs can be adaptive because your body language will convey a set of beliefs, while your underlying evolutionary aims (held unconsciously) are something else. 
 
-- I like how it's agnostic towards supernatural models of the world, which I reject outright. Practitioners explain the mechanics of chaos magic with different models. 
+- I like how it's agnostic towards supernatural models of the world, which I reject outright. Practitioners explain the mechanics of chaos magic with different models. A rough way in which I see it (again, as an outsider) is something like: You use your energy or attention and symbols to condition your unconscious - which can be thought of as a mass of autonomous spirit helpers (in shamanic language) - to work towards your conscious goals.
 
-- A rough way I see it (again, as an outsider) is something like: You use your energy or attention and symbols to condition your unconscious - which can be thought of as a mass of autonomous spirit helpers (in shamanic language) - to work towards your conscious goals. It reminds me of that self-help book _The Secret_.
-
-- Recently, it seems practitioners have found that it is not strictly indifferent which symbols and traditions one uses and have started delving into old lineage traditions, which pushes back some of the postmodern notions initially associated with the discipline and makes sense because the oldest traditions are _lindy_ and their symbolism has been honed by time.
+- Recently, (according to almighty wikipedia) it seems practitioners have found that it is not strictly indifferent which symbols and traditions one uses and have started delving into old lineage traditions, which pushes back some of the postmodern notions initially associated with the discipline and makes sense because the oldest traditions are _lindy_ and their symbolism has been honed by time.
 
 - Finally, I want to bookmark some potential connections with metarationality and Kegan level 5 in the sense of holding different models of the world at different times.
 
