@@ -8,7 +8,7 @@ position: 2
 
 Welcome to _the blog_™. 
 
-I don't really like the term _blogchain_ but I've been accumulating weekly sets of 5 amazing, usually obscure links. I refer to them as "offerings" and keep them all in [~The Altar~](altar)
+I don't really like the term _blogchain_ but I've been accumulating weekly sets of 5 amazing, usually obscure links. I refer to them as "offerings" and keep them all in [~The Altar~](_projects/the-altar.md)
 
 <h1>Latest Posts</h1>
 
