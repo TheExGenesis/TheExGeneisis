@@ -13,39 +13,39 @@ I did a lot more things including interesting projects, but for now have a lame 
 
 **MSc vvv**
 
-**Year 5**
+ **Year 5**
 
-_1st Sem_
+  _1st Sem_
 
-Complex Network Science
+   Complex Network Science
 
-Planning, Learning and Decision Making
+   Planning, Learning and Decision Making
 
-Data Science
+   Data Science
 
-Natural Language
+   Natural Language
 
-_2nd Sem_
+  _2nd Sem_
 
-Autonomous Agents and Multiagent Systems
+   Autonomous Agents and Multiagent Systems
 
-Machine Learning
+   Machine Learning
 
-**Year 4**
+ **Year 4**
 
-_1st Sem (FCUL)_
+  _1st Sem (FCUL)_
 
-basic maths courses to get my foundations straight (I couldn't take them again at my home uni smh)
+   basic maths courses to get my foundations right (I couldn't take them again at my home uni smh)
 
-_2nd Sem (Tsinghua Uni)_
+  _2nd Sem (Tsinghua Uni)_
 
-Deep Learning
+   Deep Learning
 
-Web Information Retrieval
+   Web Information Retrieval
 
-Selected Topics in Information Physics
+   Selected Topics in Information Physics
 
-Big Data Systems
+   Big Data Systems
 
 
 ***
@@ -53,76 +53,76 @@ Big Data Systems
 
 **BSc vvv**
 
-**Year 3**
+ **Year 3**
 
-_1st Sem_
+  _1st Sem_
 
-Artificial Intelligence
+   Artificial Intelligence
 
-Computer Networks
+   Computer Networks
 
-Databases   
+   Databases   
 
-_2nd Sem_
+  _2nd Sem_
 
-Distributed Systems
+   Distributed Systems
 
-Compilers
+   Compilers
 
-Analysis and Synthesis of Algorithms
+   Analysis and Synthesis of Algorithms
 
-Software Engineering
+   Software Engineering
 
-Systems Analysis and Modeling
+   Systems Analysis and Modeling
 
-**Year 2**
+ **Year 2**
 
-_1st Sem_
+  _1st Sem_
 
-Object-Oriented Programming
+   Object-Oriented Programming
 
-Operating Systems
+   Operating Systems
 
-Complex Analysis and Differential Equations
+   Complex Analysis and Differential Equations
 
-Computer Graphics   
+   Computer Graphics   
 
-Probabilistic and Statistics
+   Probabilistic and Statistics
 
-_2nd Sem_
+  _2nd Sem_
 
-Electromagnetism and Optics
+   Electromagnetism and Optics
 
-Discrete Mathematics
+   Discrete Mathematics
 
-Introduction to Algorithms and Data Structures
+   Introduction to Algorithms and Data Structures
 
-Logic for Programming
+   Logic for Programming
 
-Theory of Computation
+   Theory of Computation
 
-Human-Computer Interaction
+   Human-Computer Interaction
 
-**Year 1**
+ **Year 1**
 
-_Sem 1_
+  _Sem 1_
 
-Differential and Integral Calculus I
+   Differential and Integral Calculus I
 
-Digital Systems
+   Digital Systems
 
-Linear Algebra
+   Linear Algebra
 
-Portfólio Meec
+   Portfólio Meec
 
-_Sem 2_
+  _Sem 2_
 
-Computer Architecture
+   Computer Architecture
 
-Differential and Integral Calculus II
+   Differential and Integral Calculus II
 
-Management
+   Management
 
-Mechanics and Waves
+   Mechanics and Waves
 
-Programming
+   Programming

@@ -1,8 +1,12 @@
 ---
+title: Offering 2 - Quarantine Edition
 layout: post
-project: offerings
 categories: [offerings]
-
+excerpt:    "Armeninan animation from the 80s, 
+            Jreg, 
+            exploring egregores - ideas as lovecraftian gods, 
+            an ancient Iberian martial art, 
+            Tommy Cash HARD BASS"
 ---
 Gather ye to observe the spoils from this week's foraging! I bring you post-modern esotericism and dope aesthetics. (also check out [last week's](offering-1) offering)
 
