@@ -15,11 +15,11 @@ layout: default
 </br>
 {% assign filtered_posts = site.posts | where: 'project', page.short_name %}
 {% if filtered_posts %}
-<h2>Posts</h2>
+<h2>Posts related to this project</h2>
 <ul>
  
   {% for post in filtered_posts %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-{%endif}
+{% endif %}
