@@ -1,7 +1,8 @@
 ---
 layout: post
-project: 'offerings'
-
+project: offerings
+categories: [offerings]
+excerpt: Chaos Magic, Ithalqua, Information Geometry, the journal of the Mughal founder, Japanese math rock
 ---
 I hope everyone's settled into their new lives as apartment dwellers. Personally, my lifestyle hasn't suffered great changes. I'm enjoying getting flashbacks from highschool times of frolicking aimlessly in the tide pools of the early 2010's web. Now I'm back to present you with the finest pearls I found. (also check out [last week's](offering-2-quarantine-edition) offering)
 
