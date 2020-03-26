@@ -6,15 +6,20 @@ layout: default
 </br>
 
 <h1>{{ page.name }}</h1>
+{% if page.status %}
 <p>[status: {{ page.status }}]</p>
+{% endif %}
 </br>
 {{ content }}
 
 </br>
+{% assign filtered_posts = site.posts | where: 'project', page.short_name %}
+{% if filtered_posts %}
 <h2>Posts</h2>
 <ul>
-  {% assign filtered_posts = site.posts | where: 'project', page.short_name %}
+ 
   {% for post in filtered_posts %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+{%endif}
