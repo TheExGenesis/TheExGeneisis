@@ -1,4 +1,5 @@
 ---
+title: Offering 3 - The new normal
 layout: post
 project: offerings
 categories: [offerings]
