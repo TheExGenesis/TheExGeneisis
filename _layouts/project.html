@@ -9,9 +9,8 @@ layout: default
 {% if page.status %}
 <p>[status: {{ page.status }}]</p>
 {% endif %}
-</br>
-{{ content }}
 
+{{ content }}
 </br>
 {% assign filtered_posts = site.posts | where: 'project', page.short_name %}
 {% if filtered_posts %}
