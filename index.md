@@ -24,6 +24,8 @@ I _aggressively dig_ the universe, this world, and human experience so I'm spend
 
 I run a blog here as well, you can see all my posts [here](blog.html). I recommend taking a look at these, if you're new:
 
+- [Dream supplies](_posts/dream-supplies)
+- [The Mind and Other Incipient Ecologies](_posts/the-mind-and-other-incipient-ecologies)
 
 To know about my projects and other things I've done check out the [vault](vault.md)
 
