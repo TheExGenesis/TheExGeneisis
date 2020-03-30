@@ -8,7 +8,7 @@ excerpt:    "The Handbook for Radical Local Democracy,
             graph-tool, 
             tik tok horror."
 ---
-Gather around the campfire brothers and sister, to see what I have for you. This was week 2 of social isolation for me. Things are looking like they won't be the same after this. It's time to focus on what matters. Try to figure out how to support each other meanwhile, and how we can set things up for the aftermath. 
+Gather around the campfire brothers and sisters, to see what I have for you. This was week 2 of social isolation for me. Things are looking like they won't be the same after this. It's time to focus on what matters. Try to figure out how to support each other meanwhile, and how we can set things up for the aftermath. 
 
 Offering number 4 (!) is, in my humble opinion, the best one so far. Stick around for governance ideas for our post-apocalyptic society, new psychic powers, extreme travels, and tik tok horror. 
 
