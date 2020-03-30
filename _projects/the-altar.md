@@ -17,9 +17,9 @@ If you'd like offerings to be delivered directly to your (digital) doorstep, you
 
 <ul>
   {% for post in site.categories.offerings %}
-    <li>
-      <h2>&emsp;<a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p>&emsp;{{ post.excerpt }}</p>
+    &emsp;<li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt }}</p>
     </li>
   {% endfor %}
 </ul>
