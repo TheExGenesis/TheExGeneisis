@@ -41,7 +41,7 @@ Finally, [as promised](announcing-weekly-offerings), I completed a full month of
  - Meditation, and the state of _gnosis_, a name for the moment of focus where all thought is stripped away.
  - _Lucid dreaming_, with which I experimented as teen.
  - This was the first time I've seen anyone else recognize that "third-eye tingling" in my forehead, but apparently it's more common than I thought. 
- - Childhood experiences with my parents had me interacting with auras, and astral projection but I never really could integrate them in any epistemological framework, so I kept them at arms length.
+ - Childhood experiences with my parents had me interacting with auras (spoiler, synesthesia), and astral projection but I never really could integrate them in any epistemological framework, so I kept them at arms length.
  
 - What surprised me the most and expanded my horizons in terms of phenomenology to try in the future is something I'll agnostically call _sub-agent bending_. Basically you commit some intentions (e.g. relaxing, emulating someone, remembering to ) to your subconscious through whatever processes you like and then those intentions and memes you integrated start working autonomously in the back burner. The results will (suposedly) vary depending on the intensity of the rituals you use to commit to the unconscious mind. The handbook implies you can actually eventually chat and visualize these autonomous sub-agents. Personally I'm skeptical, but I've never ventured deep enough into these experiments. These dynamics would shed some light on stories about visions and interactions with gods, as those would be cases of archetypal structures in the unconscious mind creatively communicating with their conscious component.
 
