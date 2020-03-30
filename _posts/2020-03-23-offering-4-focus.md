@@ -16,13 +16,12 @@ Finally, [as promised](announcing-weekly-offerings), I completed a full month of
 
 ## [The Handbook for Radical Local Democracy](https://www.radicalxchange.org/wp-content/uploads/2020/02/The_Handbook_for_Radical_Local_Democracy.pdf)
 - ![](/assets/img/govbuilding.jpg)
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2F1mm5Hin-0h?alt=media&token=8a45f7e6-926f-48b9-9b59-0b93a8a0d0a0)
 - "A handbook of new social technologies for collaborating across difference." condenses 3 ideas that - given our present predicament - might become commonplace sooner rather than later. (embedded in the [RadXChange](https://www.radicalxchange.org/resources/) movement, which is based on a book called [Radical Markets](https://www.goodreads.com/book/show/36515770-radical-markets) ) In ~11 pages for each concept you get clear answers to the questions 'Why?' 'What?', 'How?', examples, and implementation tips.
 - These ideas are 
     - __Quadratic voting__, which solves the problem that most voting systems used for official decision-making are shit. It lets voters express their wishes with more precision by starting with a pool of "voting credits" and then reallocating them to the issues that matter most to them. The twist is that speaking louder has a cost, so if you want to cast n votes on a topic, it'll cost you n^2 credits.
     - __Quadratic finance__, is a mechanism for financing public goods by a central matching of funds contributed by individuals. "Namely, the total funding for a proposal is the square roots of each private contribution, summed up, and then squared." The result of this is that proposals with few contributors get little or no matching, while proposals with many contributors would get large matches in funding.
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2F1mm5Hin-0h?alt=media&token=8a45f7e6-926f-48b9-9b59-0b93a8a0d0a0)
     - and __SALSA (Self-Assessed Licenses Sold via Auction)__ for pricing access to a limited resource like plots of land. You set your own price and pay tax on that, but if someone else comes along and would by your land at that price, you'll either have to sell or pay higher taxes. This solves black markets (if licenses were sold at a fixed rate) and holdout problems (when an auction takes place once but people's values change over time).
-
 - In a world of rotting mechanisms and institutions, it's heartwarming to see people working on making better social technology broadly available. We need big changes, but all of these must come from truly democratic collective decision-making, and this is a step in that direction.
 
 - Shout-out to other projects for alternative governance like [democracy.earth](https://democracy.earth/) and [Moloch DAO](https://twitter.com/MolochDAO).
