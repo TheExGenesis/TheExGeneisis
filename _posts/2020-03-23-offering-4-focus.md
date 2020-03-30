@@ -65,6 +65,3 @@ I hope everyone's settled into their new lives as apartment dwellers. Personally
 
 
 Thanks for reading!
-
-You can sign up to my mailing list to receive all future offerings (1/week). All past offerings can be found at [~The Altar~](_projects/the-altar.md)
-{% include mailing-signup.html %}
