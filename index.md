@@ -22,11 +22,15 @@ Hi I'm xiqo, and this is home.
 
 I _aggressively dig_ the universe, this world, and human experience so I'm spending every moment of my life deliberately building a grand theory of everything. Because of that I'm into memes, art, geopolitics, complex systems, computer science, in that order. Something tells me I won't be done before I'm too old but by then I'll have stories to tell the grandkids and isn't that what being a person is all about anyway?
 
-I run a blog here as well, you can see all my posts [here](blog.html). I recommend taking a look at these, if you're new:
+There's a blog here as well, you can see all my posts [here](blog.html). I recommend taking a look at these, if you're new:
 
 - [Dream supplies](_posts/dream-supplies)
 - [The Mind and Other Incipient Ecologies](_posts/the-mind-and-other-incipient-ecologies)
 
-To know about my projects and other things I've done check out the [vault](vault.md)
+About once a week, I send out 5 obscure things I find online as an [_Offering_](_projects/the-altar.md) to the gods of the internet. 
+{% include mailing-signup.html %}
+
+
+To learn about my projects and other things I've done check out the [vault](vault.md)
 
 [@ExGenesis on Twitter](https://twitter.com/home)
