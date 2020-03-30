@@ -14,7 +14,7 @@ Finally, [as promised](announcing-weekly-offerings), I completed a full month of
 
 ***
 
-## [The Handbook for Radical Local Democracy](https://www.radicalxchange.org/wp-content/uploads/2020/02/The_Handbook_for_Radical_Local_Democracy.pdf) - [[The Handbook for Radical Local Democracy]]
+## [The Handbook for Radical Local Democracy](https://www.radicalxchange.org/wp-content/uploads/2020/02/The_Handbook_for_Radical_Local_Democracy.pdf)
 - ![](/assets/img/govbuilding.jpg)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2F1mm5Hin-0h?alt=media&token=8a45f7e6-926f-48b9-9b59-0b93a8a0d0a0)
 - "A handbook of new social technologies for collaborating across difference." condenses 3 ideas that - given our present predicament - might become commonplace sooner rather than later. (embedded in the [RadXChange](https://www.radicalxchange.org/resources/) movement, which is based on a book called [Radical Markets](https://www.goodreads.com/book/show/36515770-radical-markets) ) In ~11 pages for each concept you get clear answers to the questions 'Why?' 'What?', 'How?', examples, and implementation tips.
@@ -29,7 +29,7 @@ Finally, [as promised](announcing-weekly-offerings), I completed a full month of
 
 ***
 
-## [The Psychonaut Field Manual](https://www.deviantart.com/bluefluke/art/The-Psychonaut-Field-Manual-FOURTH-PDF-EDITION-530005584) - [[The Psychonaut Field Manual]]
+## [The Psychonaut Field Manual](https://www.deviantart.com/bluefluke/art/The-Psychonaut-Field-Manual-FOURTH-PDF-EDITION-530005584)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2FN2pIErRUSb?alt=media&token=594ebc39-5a7b-4bda-a2db-1c341f10d6d3)
     - By arch-traitor bluefluke on deviantart
 - "_We place no reliance on virgin or pidgeon, our method is science, our aim is religion_", [Aleister Crowley](https://www.youtube.com/watch?v=GKesZXudgCo&t=9s)
@@ -75,7 +75,7 @@ We also follow him in of the Mali Empire episodes (Mali is a great story too):
 
 ***
 
-## untitled COVID horror tik tok
+## [untitled COVID horror tik tok](https://www.tiktok.com/@lukemjones/video/6807932031440342277)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2Fyef1Hcu-7w?alt=media&token=82312d7e-8404-4287-b33d-f18e5a23d777)
 - Gave me goosebumps. Best use of the short-vid medium I've seen so far, and part of a larger trend of art-videos on tik tok. [Luke Jones](https://www.tiktok.com/@lukemjones) made one quality piece of content that feeds on current fears and juxtaposes them with the very platform it's on: a mobile app full of silly videos people waste time on. 
 
