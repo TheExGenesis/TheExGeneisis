@@ -46,7 +46,7 @@ Finally, [as promised](announcing-weekly-offerings), I completed a full month of
 - What surprised me the most and expanded my horizons in terms of phenomenology to try in the future is something I'll agnostically call _sub-agent bending_. Basically you commit some intentions (e.g. relaxing, emulating someone, remembering to ) to your subconscious through whatever processes you like and then those intentions and memes you integrated start working autonomously in the back burner. The results will (suposedly) vary depending on the intensity of the rituals you use to commit to the unconscious mind. The handbook implies you can actually eventually chat and visualize these autonomous sub-agents. Personally I'm skeptical, but I've never ventured deep enough into these experiments. These dynamics would shed some light on stories about visions and interactions with gods, as those would be cases of archetypal structures in the unconscious mind creatively communicating with their conscious component.
 
 - "An _egregore_ is a distributed [sub-agent], which uses a network of individuals as processing power" sound familiar? [Egregores](https://exploringegregores.wordpress.com/) and memetic possession fit into this model of the arcane, because of course they do. 
-- I'll keep exploring, but antecipate that my next breakthrough will take some time.
+- I'll keep exploring, but anticipate that my next breakthrough will take some time.
 
 ***
 
