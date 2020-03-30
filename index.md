@@ -2,7 +2,7 @@
 layout: page
 title: Home
 navlevel: header
-navtitle: About
+navtitle: Start Here
 position: 1
 
 outputs:
