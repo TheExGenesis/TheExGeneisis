@@ -73,7 +73,7 @@ We also follow him in of the Mali Empire episodes (Mali is a great story too):
 
 ## untitled COVID horror tik tok
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2Fyef1Hcu-7w?alt=media&token=82312d7e-8404-4287-b33d-f18e5a23d777)
-- Gave me goosebumps. Best use of the short-vid medium I've seen so far, and part of a larger trend of art-videos on tik tok. [Luke Jones](https://www.tiktok.com/@lukemjones) made one quality piece of content.
+- Gave me goosebumps. Best use of the short-vid medium I've seen so far, and part of a larger trend of art-videos on tik tok. [Luke Jones](https://www.tiktok.com/@lukemjones) made one quality piece of content that feeds on current fears and juxtaposes them with the very platform it's on: a mobile app full of silly videos people waste time on. 
 
 Thanks for reading!
 
