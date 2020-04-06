@@ -8,7 +8,7 @@ excerpt:    "Institutions and civilizational collapse,
             trashy art rap, 
             a baroque painter born in 1978."
 ---
-Hear ye, hear ye! Your humble host returns with a fresh batch of   c o n t e n t. This was week 3 of isolation for yours truly. Can't say that things are terribly different, still trying to figure out how I can organize locally and be of use to the community. Spending maybe a bit too much time at the computer, but that's the usual suspect.
+Hear ye, hear ye! Your humble host returns with a fresh batch of   c o n t e n t. This was week 3 of isolation for yours truly. Can't say that things are terribly different, still trying to figure out how I can organize locally and be of use to the community. Spending maybe a bit too much time at the computer, but that's the usual suspect. Keeping work and research up with a _pulse_.
 
 Offering number 5 is on the dense side - so much so that I've been considering switching to 3 items per offering, for your convenience - but I hope it is appetizing nonetheless. This week we have insights on how to learn from history and fight civilizational collapse, an introduction to the Hermetic tradition, a flexible theory of individuality, trashy art rap, and a baroque painter born in 1978.  (check out past weekly offerings at [the altar](the-altar)) 
 
@@ -54,10 +54,10 @@ Offering number 5 is on the dense side - so much so that I've been considering s
 ## [DJ LUCAS - "STRANGE ART RAP DECISIONS" (PROD DOG RIBS)](https://www.youtube.com/watch?v=XiGfoWk55Xk&list=PLWRu8dPqHP1VqkcPNjI6bF6NxdDbeWyr_)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2FQVFv57XZo-?alt=media&token=8648a6a5-1542-4366-9a03-1c56c925d731)
 - Suburban hometown vibes. Clown around not giving a fuck but still make it go hard. Lo-fi, "swamp yankee" careless aesthetic. 
-- The trajectory from parody to art is now more common than ever and I think he's read. DJ LUCAS has been on his own hero's journey and it's a beautiful sight to see. 
+- The trajectory from parody to art is now more common than ever and I think he's ready to rise. DJ LUCAS has been on his own hero's journey and it's a beautiful sight to see. 
 - "They used to think our music's fake but we continued having fate
 And it's kinda funny now, because they copy what we make"
-- Props to smoking a blunt rolled on what looks like a tree leaf in every video. [Check out his new EP on soundcloud](https://soundcloud.com/djlucasma/sets/strange-art-rap-decisions).
+- Props for smoking a blunt rolled on what looks like a tree leaf on every single video. [Check out his new EP on soundcloud](https://soundcloud.com/djlucasma/sets/strange-art-rap-decisions).
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2Fx9RfHRqjeT?alt=media&token=9bf7a6b6-66ea-46f6-b1f9-84551ba6c3b9)
 
 ***
