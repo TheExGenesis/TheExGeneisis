@@ -2,11 +2,11 @@
 title: Offering 5 - Pulse 
 layout: post
 categories: [offerings]
-excerpt:    "The Handbook for Radical Local Democracy, 
-            The Psychonaut Field Manual, 
-            The Travels of Ibn Battuta, 
-            graph-tool, 
-            tik tok horror."
+excerpt:    "Institutions and civilizational collapse, 
+            intro to the Hermetic tradition, 
+            a flexible theory of individuality, 
+            trashy art rap, 
+            a baroque painter born in 1978."
 ---
 Hear ye, hear ye! Your humble host returns with a fresh batch of   c o n t e n t. This was week 3 of coronteen for yours truly. Can't say that things are terribly different, still trying to figure out how I can organize locally and be of use to the community. Spending maybe a bit too much time at the computer, but that's the usual suspect.
 
@@ -17,7 +17,7 @@ Offering number 5 is on the dense side - so much so that I've been considering s
 ## [Civilization: Institutions, Knowledge and the Future - Samo Burja](https://www.youtube.com/watch?v=OiNmTVThNEY)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2FvSKk0QCETG?alt=media&token=6f17aa61-9820-41ad-9772-81ef79183dfc)
 - Samo Burja writes on history, institutions, and strategy and has a great underrated youtube channel. 
-- The video linked is kinda long but basically he uses the [Bronze Age Collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse), to motivate talking about the loss of knowledge and how that affects the functioning of institutions. Most people don't know how our systems and institutions function. Someone does, presumably. He introduce the concept of intellectual dark matter, knowledge that we know is there and exists, even if we don't know what it is. Samo gives the example of the 87% of ancient Greek authors we know about but don't have their works. 
+- The video linked is kinda long but basically he uses the [Bronze Age Collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse), to motivate talking about the loss of knowledge and how that affects the functioning of institutions. Most people don't know how our systems and institutions function. Someone does, presumably. He introduces the concept of intellectual dark matter, knowledge that we know is there and exists, even if we don't know what it is. Samo gives the example of the 87% of ancient Greek authors we know about but don't have their works. 
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2FKIqsocuV2-?alt=media&token=ee5360bd-a5c8-48ea-b3ed-1e61fe9c000e)
 - This is something I think about a lot, how information and wisdom can be propagated through time, and it's a hard problem.
 - There's also a 2m one called [How I Learn History](https://www.youtube.com/watch?v=F3M6kA7pGo4) which resonated with me, since I'm guilty of falling in the trap of thinking I'm learning by consuming tons of history youtube and wikipedia. Basically he points out that learning from history should happen on the basis of case studies. Only when you understand the mechanics of what happened and have theories about how that might generalize, do you have practical knowledge of history. Because of this, he stresses the importance of reading primary sources and deciding for yourself.
@@ -65,9 +65,9 @@ And it's kinda funny now, because they copy what we make"
 
 ## [Roberto Ferri](http://www.robertoferri.net/gallery_2015.php), barroque, mythological painter. Very impressive
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2F9MS_os4cbL?alt=media&token=d1fa6adf-7b31-44f3-9060-7cf15fbee466)
+- [Roberto Ferri](http://www.robertoferri.net/), an italian baroque painter born in 1978. Sensual, mystical, and heavy with symbolism. Dark and violent at times but always with a placid beauty that draws you in. Something about the vitality of the bodies in his pieces keeps me from looking away for ages. Really powerful. That in conjunction with the esoteric themes in most of his works takes it to sublime. 
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2Fx518EgMp6y?alt=media&token=8646fb04-c3b5-4bdb-accd-a5c4b649a6f3)
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2FCH3PtKHL9X?alt=media&token=1f94d085-2a17-49e4-9087-326c657f322a)
-- [Roberto Ferri](http://www.robertoferri.net/), an italian baroque painter born in 1978. Sensual, mystical, and heavy with symbolism. Dark and violent at times but always with a placid beauty that draws you in. Something about the vitality of the bodies in his pieces keeps me from looking away for ages. Really powerful. That in conjunction with the esoteric themes in most of his works takes it to sublime. 
 
 
 Thanks for reading!
