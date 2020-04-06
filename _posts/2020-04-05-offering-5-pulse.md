@@ -10,7 +10,7 @@ excerpt:    "Institutions and civilizational collapse,
 ---
 Hear ye, hear ye! Your humble host returns with a fresh batch of   c o n t e n t. This was week 3 of isolation for yours truly. Can't say that things are terribly different, still trying to figure out how I can organize locally and be of use to the community. Spending maybe a bit too much time at the computer, but that's the usual suspect. Keeping work and research up with a _pulse_.
 
-Offering number 5 is on the dense side - so much so that I've been considering switching to 3 items per offering, for your convenience - but I hope it is appetizing nonetheless. This week we have insights on how to learn from history and fight civilizational collapse, an introduction to the Hermetic tradition, a flexible theory of individuality, trashy art rap, and a baroque painter born in 1978.  (check out past weekly offerings at [the altar](the-altar)) 
+Offering number 5 is on the dense side - so much so that I've been considering switching to 3 items per offering, for your convenience - but I hope it is appetizing nonetheless. This week we have insights on how to learn from history and fight civilizational collapse, an introduction to the Hermetic tradition, a flexible theory of individuality, trashy art rap, and a baroque painter born in 1978.  (check out past weekly offerings at [the altar](/projects/the-altar.html)) 
 
 ***
 
