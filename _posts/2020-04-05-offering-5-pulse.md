@@ -62,7 +62,7 @@ And it's kinda funny now, because they copy what we make"
 
 ***
 
-## [Roberto Ferri](http://www.robertoferri.net/gallery_2015.php), barroque, mythological painter. Very impressive
+## [Roberto Ferri](http://www.robertoferri.net/gallery_2015.php), barroque occult painter from 1978
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2F9MS_os4cbL?alt=media&token=d1fa6adf-7b31-44f3-9060-7cf15fbee466)
 - [Roberto Ferri](http://www.robertoferri.net/), an italian baroque painter born in 1978. Sensual, mystical, and heavy with symbolism. Dark and violent at times but always with a placid beauty that draws you in. Something about the vitality of the bodies in his pieces keeps me from looking away for ages. Really powerful. That in conjunction with the esoteric themes in most of his works takes it to sublime. 
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2Fx518EgMp6y?alt=media&token=8646fb04-c3b5-4bdb-accd-a5c4b649a6f3)
