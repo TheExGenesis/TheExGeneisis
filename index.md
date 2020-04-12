@@ -27,7 +27,8 @@ There's a blog here as well, you can see all my posts [here](blog.html). I recom
 - [Dream supplies](_posts/dream-supplies)
 - [The Mind and Other Incipient Ecologies](_posts/the-mind-and-other-incipient-ecologies)
 
-About once a week, I send out 5 obscure things I find online as an [_Offering_](_projects/the-altar.md) to the gods of the internet. You subscrube to my mailing list to get them.
+About once a week, I send out a handful of obscure links I find online as an [_Offering_](_projects/the-altar.md) to the gods of the internet. You subscrube to my mailing list to get them.
+
 {% include mailing-signup.html %}
 
 
