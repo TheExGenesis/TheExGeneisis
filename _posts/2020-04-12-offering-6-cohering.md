@@ -2,12 +2,12 @@
 title: Offering 6 - Cohering 
 layout: post
 categories: [offerings]
-excerpt:    "secular materialist framing for chaos magic, 
+excerpt:    "A secular materialist framing for chaos magic, 
             island Southeast Asia in Portuguese epic poetry, 
             a proposition to kill maths!"
 ---
 Greetings brothers and sisters! I hope you're all coping well enough with our present collective predicament. 
-I've been reasonably productive myself, eating well, exercising, etc. I'd like to be meditating more often, listening to the body... been overly pluggled to the stream online. Another thing is that I'm, noticing a compulsion to contribute or organize locally, and still haven't found a way to do so with my skillset/network. 
+I've been reasonably productive myself, eating well, exercising, etc. I'd like to be meditating more often, listening to the body... been overly plugged to "the stream" online. Another thing is that I'm, noticing a compulsion to contribute or organize locally, and still haven't found a way to do so with my skillset/network. 
 
 This is the first offering with only 3 items, but they're good ones. We're doing 3 instead of 5 to gradually move to longer form writing. Writing short paragraphs about many things was useful to establish an aesthetic, but I'm now based enough to embark on producing full blogposts. I hope you'll appreciate all the same.
 This week features a secular materialist framing for chaos magic, island Southeast Asia in Portuguese epic poetry, and a proposition to kill maths, enjoy! (check out past weekly offerings at [the altar](/projects/the-altar.html)) 
@@ -25,12 +25,12 @@ _A psychonaut_
 "A **sigil** is a reminder of intent, but one that is oblique enough that it avoids triggering self-defeating behaviors..."
 I've never systematically experimented with sigils. My interest in magic so far has been purely theoretical and existential. However, the way I've conceptualized them to work is by producing patterns in the unconscious that eventually result in macroscopic changes that manifest in one's worldview and approach to decision making, which later produce material results. I suspect this works by seizing the mechanism of [predictive processing](https://en.wikipedia.org/wiki/Predictive_coding), but more on that later.
 "...**rituals** are costly signals to the self about the importance of achieving some goal. "The time and effort turned over to a ritual is itself a sacrifice.
-Group rituals bind the group together to a common goal: they all made the same sacrifice and would like to avoid the cognitive dissonance of having wasted it, so they must achieve their goal in order to justify their sacrifice"
+Group rituals bind the group together to a common goal: they all made the same sacrifice and would like to avoid the cognitive dissonance of having wasted it, so they must achieve their goal to justify their sacrifice"
 You show your commitment to yourself, such that your unconscious will start taking the thing you're committing to, seriously. If [The Elephant in the Brain](https://www.goodreads.com/book/show/28820444-the-elephant-in-the-brain) is right and the unconscious is running the show while the conscious copes and rationalizes over whatever happens, this is a way for the conscious loop to exert some influence in the opposite way.
 [Grant Morrison](https://en.wikipedia.org/wiki/Grant_Morrison) coined the term _hypersigil_ to refer to an extended work of art with magical meaning and willpower, created analogously to sigils. His [comic book](https://en.wikipedia.org/wiki/Comic_book) series _[The Invisibles](https://en.wikipedia.org/wiki/The_Invisibles)_ was intended as such a hypersigil.
 "With **hypersigils**, the mechanism of action is even easier. People model their worldview mostly on _art_. A hypersigil takes a naturalistic view of the world and adds elements to it that encourage emotional investment, and then slowly modifies it in ways that correspond to some intent. When the audience has adjusted expectations, it becomes more likely that they will manipulate the world to fit those expectations."
-As with sigils, I see these working by changing the way in which people are predisposed to act. Again, I think this has something to do with predictive processing. I also conceive that distributed processing happens where inconsequential local changes in individuals result in larger, emergent effects on the collective [egregore](https://en.wikipedia.org/wiki/Egregore).
-I'm aware that my writing on these esoteric topics is usually, and maybe only fully comprehensible to people who have already gone through the motions themselves. As I progress I connect more dots and am able to better relate these insights to everyday life. Meanwhile, I'll be glad to answer any comments and questions if you feel so inclined.
+As with sigils, I see these working by changing how people are predisposed to act. Again, I think this has something to do with predictive processing. I also conceive that distributed processing happens where inconsequential local changes in individuals result in larger, emergent effects on the collective [egregore](https://en.wikipedia.org/wiki/Egregore).
+I'm aware that my writing on these esoteric topics is usually, and maybe only fully comprehensible to people who have already gone through the motions themselves. As I progress I connect more dots and can better relate these insights to everyday life. Meanwhile, I'll be glad to answer any comments and questions if you feel so inclined.
 
 ***
 
@@ -45,7 +45,7 @@ Descriptions of the islands of Southeast Asia are to be found in the last _canto
 "...the majority of our planet at this time was occupied by people with no decipherable written tradition, and few earlier documents survive from much of the rest for reasons of climate and geography — and also because such texts were often destroyed by European administrators and missionaries for [religious](https://en.wikipedia.org/wiki/Diego_de_Landa) and political reasons."
 Although Camões actually visited the region, his views were riddled with imperialist bias: "...even in the heights of epic poetry he can’t get far from the real preoccupation of the _conquistadores_: The luxurious produce of each place and implicitly the profits that could be turned from it..."
 I thought I'd seize this chance to showcase where my heritage crosses the land of infinite tropical islands, sea, and spice. Bonus fascination points for the rich mix of Hindu, Buddhist, and Muslim influences in a land native to none of them.
-See also Extra Credit's awesome series on the Indonesian [kingdom of Majaphit](https://youtu.be/n4zGw2OewIk).
+See also Extra Credit's awesome series on the Indonesian [kingdom of Majapahit](https://youtu.be/n4zGw2OewIk).
 
 ***
 
