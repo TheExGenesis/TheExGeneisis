@@ -4,7 +4,7 @@ layout: post
 categories: [offerings]
 excerpt:    "A secular materialist framing for chaos magic, 
             island Southeast Asia in Portuguese epic poetry, 
-            a proposition to kill maths!"
+            on killing maths!"
 ---
 Greetings brothers and sisters! I hope you're all coping well enough with our present collective predicament. 
 I've been reasonably productive myself, eating well, exercising, etc. I'd like to be meditating more often, listening to the body... been overly plugged to "the stream™" online. Another thing is that I'm, noticing a compulsion to contribute or organize locally, and still haven't found a way to do so with my skillset/network. 
@@ -71,7 +71,7 @@ See also Extra Credit's awesome series on the Indonesian [kingdom of Majapahit](
 
 ## [Kill Math](http://worrydream.com/KillMath/)!
 
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2FWJI6BmJERM?alt=media&token=8c620807-4609-43fd-a216-53ab9468350c)
+![](/assets/img/trig.gif)
 _gif from Wikipedia's page for the [sine function](https://en.wikipedia.org/wiki/Sine)_
 
 "**The power to understand and predict the quantities of the world should not be restricted to those with a freakish knack for manipulating abstract symbols.**"
