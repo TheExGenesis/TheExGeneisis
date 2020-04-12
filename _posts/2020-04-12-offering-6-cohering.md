@@ -72,6 +72,7 @@ See also Extra Credit's awesome series on the Indonesian [kingdom of Majapahit](
 ## [Kill Math](http://worrydream.com/KillMath/)!
 
 ![](/assets/img/trig.gif)
+
 _gif from Wikipedia's page for the [sine function](https://en.wikipedia.org/wiki/Sine)_
 
 "**The power to understand and predict the quantities of the world should not be restricted to those with a freakish knack for manipulating abstract symbols.**"
