@@ -18,6 +18,7 @@ This week features a secular materialist framing for chaos magic, island Southea
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2F3rRX9l6BtO?alt=media&token=1dd227ea-3750-4944-8113-467e6574c2a1)
 
 _"Major practices associated with chaos magick do not require appeals to ideas outside the scientific mainstream"_
+
 I've talked about chaos magic back in [offering 3](https://xiqo.xyz/offerings/2020/03/23/offering-3-new-normal.html) and [offering 4](https://xiqo.xyz/offerings/2020/03/23/offering-4-focus.html), in the context of _The Psychonaut Field Guide_ (which is a nice introduction if you're uncertain of what exactly I'm referring to as "magic" here.)
 
 This article expresses my argument exactly for why I think magic AS A PRACTICE is compatible with materialism and a scientific world-view. Specifically, the practices of ritual (especially sacrifices) and the crafting of [sigils](https://en.wikipedia.org/wiki/Sigil).
@@ -53,7 +54,7 @@ _Map of the Indies, from Theatrum Orbis Terrarum, 1570_
 
 Medieval Indonesia is the moniker of a History Ph.D. student that blogs about Indonesia around the 15th and 16th centuries. I know very little about the history of Indonesia, so it's always a delight when I see MI's posts and [tweets](https://twitter.com/siwaratrikalpa).
 
-His latest post is about the place as described by one of my countrymen. Luís Vaz de Camões is the Portuguese king of poets. He authored _the_ national epic: _Os Lusíadas_, about the people of Portugal and the age of Discoveries. The book, written over globe-spanning sea voyages, was amusingly held on to _through a ship-wreck_ by his one-eyed author.
+His latest post is about the place as described by one of my countrymen. Luís Vaz de Camões is the Portuguese king of poets. He authored _the_ national epic: _Os Lusíadas_, about the people of Portugal and the age of Discoveries. The book, written over globe-spanning sea voyages, was amusingly held on to _through a ship-wreck_ by its one-eyed author.
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2FJ0cQSnjxjn?alt=media&token=f1ae1e33-1d73-483b-9e9d-1d76a9ef7813)
 
