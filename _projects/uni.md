@@ -7,7 +7,7 @@ status: done
 
 I'm almost done with BSc + MSc in Computer Science at Instituto Superior Técnico, the University of Lisbon's engineering school. _The oldest and most prestigious of its kind in Portugal_ (I feel dirty writing this but we need that cred)
 
-I did a bunch of things I might or might not end up posting about. For example: I spent a [semester in China](_projects/china.md) and the one before that running the [university newspaper](_projects/diferencial.md) while doing some extra credits in maths.
+I did a bunch of things I might or might not end up posting about. For example: I spent a [semester in China](china.md) and the one before that running the [university newspaper](diferencial.md) while doing some extra credits in maths.
 
 I did a lot more things including interesting projects, but for now have a lame list of the courses I took.
 
