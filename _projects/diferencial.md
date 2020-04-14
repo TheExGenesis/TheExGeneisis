@@ -8,12 +8,12 @@ Sadly, I had to leave the next semester for a (slightly) unforeseen [semester ab
 
 <br>
 During my term I:
-* delineated macrostrategy; (move from analog paper to purely online)
-* rebuilt [the website](https://diferencial.tecnico.ulisboa.pt) (which has been further improved by the talented Paulo Moniz);
-* applied for funding through grants available to student groups;
-* communicated with university administration and student bodies;
-* dealt with logistics for a the publication and coordinated a team of writers and editors;
-* went to IKEA and remodeled the newspaper work room
+  * delineated macrostrategy; (move from analog paper to purely online)
+  * rebuilt [the website](https://diferencial.tecnico.ulisboa.pt) (which has been further improved by the talented Paulo Moniz);
+  * applied for funding through grants available to student groups;
+  * communicated with university administration and student bodies;
+  * dealt with logistics for a the publication and coordinated a team of writers and editors;
+  * went to IKEA and remodeled the newspaper work room
 
 
 <br>
