@@ -16,7 +16,7 @@ outputs:
 
 francisco.de.carvalho at tecnico.ulisboa.pt
 
-<img src="{{ site.url }}/assets/img/xiqpic2.jpg" alt="me"/>
+<img src="{{ site.url }}/assets/img/xiqpic3.jpg" alt="me"/>
 
 Hi I'm xiqo, and this is home. 
 
