@@ -13,6 +13,7 @@ body {
 
 a, a:hover, a:visited {
   @include scut-link-unstyled;
+  border-bottom: 1px dotted currentColor;
 }
 
 img { max-width: 100%; }
