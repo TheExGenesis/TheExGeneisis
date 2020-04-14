@@ -8,7 +8,8 @@ Spent a semester living in Beijing as a Master's student in the Department of Co
 
 Picked up some mandarin, tried out digital nomadism and found it's within my reach as lifestyle.
 
-I wrote about [how travelling is like gathering dream supplies](_posts/dream-supplies) while I was there.
+I wrote about [how travelling is like gathering dream supplies]({% post_url 2019-05-08-dream-supplies %})
+(_posts/dream-supplies) while I was there.
 
 ![](/assets/img/buddhaxiq.jpg)
 ![](/assets/img/china1.jpg)
