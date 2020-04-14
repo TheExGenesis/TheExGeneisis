@@ -10,7 +10,7 @@ Picked up some mandarin, tried out digital nomadism and found it's within my rea
 
 I wrote about [how travelling is like gathering dream supplies](_posts/dream-supplies) while I was there.
 
-![](/assets/img/buddhaxia.jpg)
+![](/assets/img/buddhaxiq.jpg)
 ![](/assets/img/china1.jpg)
 ![](/assets/img/china2.jpg)
 ![](/assets/img/china3.jpg)
