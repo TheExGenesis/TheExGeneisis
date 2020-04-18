@@ -20,7 +20,11 @@ francisco.de.carvalho at tecnico.ulisboa.pt
 
 Hi I'm xiqo, and this is home. 
 
-I _aggressively dig_ the universe, this world, and human experience so I'm spending every moment of my life deliberately building a grand theory of everything. Because of that I'm into memes, art, geopolitics, complex systems, computer science, in that order. Something tells me I won't be done before I'm too old but by then I'll have stories to tell the grandkids and isn't that what being a person is all about anyway?
+
+My life is about pulling multi-armed bandits. I shuffle on the dancefloor until others are ready to join in.
+
+Deliberately building a grand theory of everything. Into memes, art, geopolitics, complex systems, computer science, in that order. It's a striving thing, not a goal. 
+
 
 There's a blog here as well, you can see all my posts [here](blog.html). I recommend taking a look at these, if you're new:
 
