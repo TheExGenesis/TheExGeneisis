@@ -16,10 +16,10 @@ outputs:
 
 francisco.de.carvalho at tecnico.ulisboa.pt
 
-<img src="{{ site.url }}/assets/img/xiqpic3.jpg" alt="me"/>
 
 Hi I'm xiqo, and this is home. 
 
+<img src="{{ site.url }}/assets/img/xiqpic3.jpg" alt="me"/>
 
 My life is about pulling multi-armed bandits. I shuffle on the dancefloor until others are ready to join in.
 
