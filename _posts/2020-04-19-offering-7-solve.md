@@ -27,6 +27,7 @@ The review details examples about manioc (which is toxic unless you cook it prop
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2FFdDFBlwLlb?alt=media&token=50688133-617f-409a-895f-a521f5d55dbe)
   - _Les temps prehistoriques - Pierre Joubert_
+  
 "Food processing is one of the easiest parts of transmissible, reproducing culture for us to observe. The [nixtamalization](http://en.m.wikipedia.org/wiki/Nixtamalization) process, an ancient American method of processing corn, increases the availability of a B vitamin (niacin). Like the shellfish and nardoo of the Outback, corn without its associated cultural processing cannot form the basis of a human diet; where corn traveled without nixtamalization, malnutrition followed."
 
 
