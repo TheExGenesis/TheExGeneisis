@@ -7,7 +7,7 @@ excerpt:    "A trashgame curator,
             the foundations of geopolitics"
 ---
 
-- This week's offering has a little less writing as an experiment. I'm planning to keep making these offerings with minimal context, and moving my writing to full-length blogposts, which is what's happening this week. There's a blogpost on ritual sacrifice coming tomorrow!
+This week's offering has a little less writing as an experiment. I'm planning to keep making these offerings with minimal context, and moving my writing to full-length blogposts, which is what's happening this week. There's a blogpost on ritual sacrifice coming tomorrow!
 
 For now I leave you with trashgame wonderland, a mind-bending animated spacecast, and a little something on the foundations of geopolitics. (check out past weekly offerings at [the altar](/projects/the-altar.html)) 
 
