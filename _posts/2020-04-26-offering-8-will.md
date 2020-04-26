@@ -30,9 +30,9 @@ We've never interacted much but I want to thank @moshboy for his patronage in th
 
 ## [Midnight gospel](https://www.rottentomatoes.com/tv/the_midnight_gospel/s01)
 
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2FTjED8Oyohu?alt=media&token=24104887-bafc-4d4e-b55b-259667fe3a97)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ka-8KJOtFBk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Drugs, family, death, emotions, magic, psychadelia and much more. From the themes, to the lovingly crafted visuals, to every single beat of it, this show is a treasure.
+Drugs, family, death, emotions, magic, psychadelia and much more. It's a visual podcast embedded in a whimsical world like nothing you've seen before. From the themes, to the lovingly crafted visuals, to every single beat of it, this show is a treasure.
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2FOt1p-pCqh9?alt=media&token=fbd45e01-bcbb-41c2-b4dc-9edcd332f2ab)
 
