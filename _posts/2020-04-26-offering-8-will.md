@@ -18,7 +18,7 @@ Moshboy is one of those criminally underappreciated internet personalities. I've
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Oiq0rH9_SI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In 2016 he underwent the Herculean task of [curating 1000 makers of weird games](https://twitter.com/moshboy/status/731628834341027840) and he DID IT. Check it out, all those games are pretty interesting. I think he uses an account called "[how many tiny wierd (free) videogames can i curate before i die](https://twitter.com/hmtwvcicbid)" to share individual games nowadays. 
+In 2016 he undertook the Herculean task of [curating 1000 makers of weird games](https://twitter.com/moshboy/status/731628834341027840) and he DID IT. Check it out, all those games are pretty interesting. I think he uses an account called "[how many tiny wierd (free) videogames can i curate before i die](https://twitter.com/hmtwvcicbid)" to share individual games nowadays. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">droop by <a href="https://twitter.com/lecrivaillante?ref_src=twsrc%5Etfw">@lecrivaillante</a>: <a href="https://t.co/Yk94yjvOFJ">https://t.co/Yk94yjvOFJ</a> <a href="https://t.co/3eeKUgWjeM">pic.twitter.com/3eeKUgWjeM</a></p>&mdash; hmtwvcicbid (@hmtwvcicbid) <a href="https://twitter.com/hmtwvcicbid/status/1119749851174932480?ref_src=twsrc%5Etfw">April 20, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
