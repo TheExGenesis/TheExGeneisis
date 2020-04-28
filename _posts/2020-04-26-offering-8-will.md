@@ -44,7 +44,9 @@ This is my new favourite animated thing, it'll make you laugh, blow your mind, m
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2FAG2KhzWmZX?alt=media&token=b3c35fab-7051-470c-b377-f2aa6a535fa3)
 
-The Heartland thesis (1904) is one of the foundational theories of modern geopolitics. Starting from assumptions about the defining role of geographical features in human states, Mackinder reasons out a world-encompassing theory of conflict and political power.
+The Heartland thesis (1904) is one of the foundational theories of modern geopolitics. Starting from assumptions about the defining role of geographical features in human states, Mackinder reasons out a world-encompassing theory of conflict and political power. 
+
+Dugin, whose geopolitics Putin seems to follow
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fxiqo%2Fyg8KpwkbXA?alt=media&token=e5db18ce-ad2b-417c-915d-74703dad5318)
 
