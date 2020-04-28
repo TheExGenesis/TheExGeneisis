@@ -4,7 +4,7 @@ layout: post
 excerpt: "In which I sacrifice a dearly held computer game at the altar of academic glory."
 ---
 
-_This post is an experiment, I have no idea if people will find value in it, but I wrote this and so I'm posting._
+_This post is an experiment, I have no idea if people will find value in it, but I wrote this and so I'm posting. I'm also introducing collapsable paragraphs for making subpoints, explanations, and clarifications that would make the text too long or dense._
 
 ***
 
@@ -16,7 +16,7 @@ Thesis proposals at the University of Lisbon are due in exactly one month. This 
 
 Work should feel effortless. Things turn out the best when you follow the Dao. Move with the flow. Light touch in everything unless indispensable. Navigate by feel without relying on rigid plans and feats of intense self-discipline. 
 
-<details markdown="1"><summary><i>I haven't embodied this yet.</i></summary>
+<details markdown="1"><summary><b>I haven't embodied this yet.</b></summary>
   - There's a fuzzy line between flow and laziness, but I think they can be reliably distinguished. 
   - I'm not saying slack off or taking big uncalculated risks. I'm saying bring attention to your options and and take the one that feels right. 
   - If you pay a modicum of attention you will not end up homeless, your social safety net will support you, we can count on each other. 
