@@ -17,8 +17,8 @@ Thesis proposals at the University of Lisbon are due in exactly one month. This 
 Work should feel effortless. Things turn out the best when you follow the Dao. Move with the flow. Light touch in everything unless indispensable. Navigate by feel without relying on rigid plans and feats of intense self-discipline. 
 
 <div markdown="1">
-<details>
-  <summary>__I haven't embodied this yet.__</summary>
+<details markdown="1">
+  <summary markdown="1">__I haven't embodied this yet.__</summary>
   - There's a fuzzy line between flow and laziness, but I think they can be reliably distinguished. 
   - I'm not saying slack off or taking big uncalculated risks. I'm saying bring attention to your options and and take the one that feels right. 
   - If you pay a modicum of attention you will not end up homeless, your social safety net will support you, we can count on each other. 
@@ -31,17 +31,16 @@ It's the stakes. The stakes and the fact that I have time mean that I'll go to a
 
 My advisers have been with me since July of 2019. They've been patient and gave me the freedom to approach any topic connected with AI alignment. So I went on a quest to find __the perfect thesis topic__, with the ultimate impact-to-sexiness ratio available. It took 3 different AI safety workshops before I realized I need to just start. On anything. 
 
-- __Something important I haven't embodied yet is that ideas don't matter that much. It's how you build on them.__
+_Something important I haven't embodied yet is that ideas don't matter that much. It's how you build on them._
 
 It's been one-and-half semesters since I started "thinking" about a topic. I've done a big literature review: 1) a rough overview of the work that has been/is being done in AI alignment, and how it fits into different sub-areas, 2) a review of the epistemology and arguments for AI risk, and finally, 3) reviewing research agendas and other paths that seemed stimulating. 
 
 <details>
-  <summary>{{ "I've annealed around RS - recommender systems (like the youtube algorithm) because they're the biggest misaligned boys around in terms of real life impact and sophistication. Specifically, I want to see how an RS that optimizes for user retention (instead of whatever its users' goals are) might affect the long-term condition of a network of users who are both collaborating and competing. (see Goodhart's law) My advisors told me to formalize this." | markdownify }}
+  <summary>{{"I've annealed around RS - recommender systems (like the youtube algorithm) because they're the biggest misaligned boys around in terms of real life impact and sophistication. Specifically, I want to see how an RS that optimizes for user retention (instead of whatever its users' goals are) might affect the long-term condition of a network of users who are both collaborating and competing. (see Goodhart's law) My advisors told me to formalize this." | markdownify }}
   </summary> 
     {{"- Current recsys are a specific example of the alignment problem in the wild, which I figured might be easier to address than the general version of the problem. RS are misaligned as they clearly have different incentives - increasing retention or ad profit - from their users', who are trying to get information or play games with one another.
     - I told my advisors about this and sketched a rough model to compare how people's opinions on stuff might be influenced by a RS with its own agenda versus a pure Christ-like recommender that has our own best interest at heart. They told me there's a lot of talk about these sorts of topics in academia, but not much action, and to show them a well-defined formal model. 
-    - It's been rough. I don't have much experience using game theory to make models, so I keep starting ideas, thinking about some other thing that makes sense but is incompatible, start again, rinse, repeat. Something that is helping but is ULTRA SLOW is actually playing out games between 2 or 3 users and 1 recommender under different set ups.
-        - "game trees: [Extensive form game](https://en.wikipedia.org/wiki/Extensive-form_game)"" | markdownify }}
+    - It's been rough. I don't have much experience using game theory to make models, so I keep starting ideas, thinking about some other thing that makes sense but is incompatible, start again, rinse, repeat. Something that is helping but is ULTRA SLOW is actually playing out games between 2 or 3 users and 1 recommender under different set ups. | markdownify }}
 </details>
 
 For the past 2 weeks, I've been GRINDING to gather all my disparate thoughts about society and emergent effects from RecSys but it just isn't happening fast enough. Every time I make a tiny breakthrough I feel a "victory rush" and I either do something else as a reward or stick around but browse social media and get tired.
