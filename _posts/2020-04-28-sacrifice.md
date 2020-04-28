@@ -16,7 +16,7 @@ Thesis proposals at the University of Lisbon are due in exactly one month. This 
 
 Work should feel effortless. Things turn out the best when you follow the Dao. Move with the flow. Light touch in everything unless indispensable. Navigate by feel without relying on rigid plans and feats of intense self-discipline. 
 
-<div markdown="1">
+<div>
 <details markdown="1">
   <summary markdown="1">__I haven't embodied this yet.__</summary>
   - There's a fuzzy line between flow and laziness, but I think they can be reliably distinguished. 
