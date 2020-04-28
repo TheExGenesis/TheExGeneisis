@@ -16,7 +16,6 @@ Thesis proposals at the University of Lisbon are due in exactly one month. This 
 
 Work should feel effortless. Things turn out the best when you follow the Dao. Move with the flow. Light touch in everything unless indispensable. Navigate by feel without relying on rigid plans and feats of intense self-discipline. 
 
-<div>
 <details markdown="1"><summary>{{"__I haven't embodied this yet.__" | markdownify}}</summary>
   - There's a fuzzy line between flow and laziness, but I think they can be reliably distinguished. 
   - I'm not saying slack off or taking big uncalculated risks. I'm saying bring attention to your options and and take the one that feels right. 
@@ -24,7 +23,6 @@ Work should feel effortless. Things turn out the best when you follow the Dao. M
   - I think of the dao as a magnetic field both in physical space and in thought space. The way I feel it most clearly is by feeling how anxiety in my belly responds when I focus on regions of a space. It probably varies between people. It's probably easier to feel the dao if you medidate and keep good internal hygiene in general. 
   - [Magick Without Tears](https://hermetic.com/crowley/magick-without-tears/mwt_02).
 </details>
-</div>
 
 It's the stakes. The stakes and the fact that I have time mean that I'll go to arbitrary lengths to make sure this project is SPOTLESS. And so progress has been slow, hindered by analysis paralysis, perfectionism, and sheer inexperience. I'm trying too hard and forcing a bandwidth I don't have yet. 
 
