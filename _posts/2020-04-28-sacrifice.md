@@ -16,7 +16,7 @@ Thesis proposals at the University of Lisbon are due in exactly one month. This 
 
 Work should feel effortless. Things turn out the best when you follow the Dao. Move with the flow. Light touch in everything unless indispensable. Navigate by feel without relying on rigid plans and feats of intense self-discipline. 
 
-<details markdown="1"><summary><b>I haven't embodied this yet.</b></summary>
+<details markdown="1"><summary><i>I haven't embodied this yet.</i></summary>
   - There's a fuzzy line between flow and laziness, but I think they can be reliably distinguished. 
   - I'm not saying slack off or taking big uncalculated risks. I'm saying bring attention to your options and and take the one that feels right. 
   - If you pay a modicum of attention you will not end up homeless, your social safety net will support you, we can count on each other. 
@@ -28,7 +28,7 @@ It's the stakes. The stakes and the fact that I have time mean that I'll go to a
 
 My advisers have been with me since July of 2019. They've been patient and gave me the freedom to approach any topic connected with AI alignment. So I went on a quest to find __the perfect thesis topic__, with the ultimate impact-to-sexiness ratio available. It took 3 different AI safety workshops before I realized I need to just start. On anything. 
 
-__I haven't embodied that ideas don't matter that much yet either. It's how you build on them.__
+_I haven't embodied that ideas don't matter that much yet either. It's how you build on them._
 
 It's been one-and-half semesters since I started "thinking" about a topic. I've done a big literature review: 1) a rough overview of the work that has been/is being done in AI alignment, and how it fits into different sub-areas, 2) a review of the epistemology and arguments for AI risk, and finally, 3) reviewing research agendas and other paths that seemed stimulating. 
 
