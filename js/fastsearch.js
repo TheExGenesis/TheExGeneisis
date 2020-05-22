@@ -127,10 +127,10 @@ function loadSearch() {
       threshold: 0.7,
       minMatchCharLength: 2,
       keys: [
+        'content',
         'title',
         'url',
-        'date',
-        'content'
+        'date'
         ]
     };
     fuse = new Fuse(data, options); // build the index from the json file
