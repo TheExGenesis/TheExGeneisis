@@ -14,16 +14,16 @@ outputs:
 
 <!--<p style="background-color:yellow">This website might currently be undergoing reconstruction</p>-->
 
-francisco.de.carvalho at tecnico.ulisboa.pt
+frsc at campus.ul.pt
 
 
 Hi I'm xiqo, and this is home. 
 
 <img src="{{ site.url }}/assets/img/xiqpic3.jpg" alt="me"/>
 
-My life is about pulling multi-armed bandits. I shuffle on the dancefloor until others are ready to join in.
+Seeking. I shuffle on the dancefloor until others are ready to join in.
 
-Deliberately building a grand theory of everything. Into memes, art, geopolitics, complex systems, computer science, in that order. It's a striving thing, not a goal. 
+nto memes, art, geopolitics, complex systems, computer science, in that order. It's a striving thing, not a goal. 
 
 
 There's a blog here as well, you can see all my posts [here](blog.html). I recommend taking a look at these, if you're new:

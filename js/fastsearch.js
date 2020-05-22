@@ -124,14 +124,13 @@ function loadSearch() {
       shouldSort: true,
       location: 0,
       distance: 100,
-      threshold: 0.6,
+      threshold: 0.7,
       minMatchCharLength: 2,
       keys: [
-        'content',
-        'excerpt',
         'title',
         'url',
-        'date'
+        'date',
+        'content'
         ]
     };
     fuse = new Fuse(data, options); // build the index from the json file
