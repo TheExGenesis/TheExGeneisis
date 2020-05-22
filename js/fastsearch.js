@@ -124,10 +124,11 @@ function loadSearch() {
       shouldSort: true,
       location: 0,
       distance: 100,
-      threshold: 0.7,
+      threshold: 0.6,
       minMatchCharLength: 2,
       keys: [
         'content',
+        'excerpt',
         'title',
         'url',
         'date'
